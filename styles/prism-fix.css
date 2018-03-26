@@ -1,0 +1,85 @@
+.token.lf::before,
+.token.crlf::before,
+.token.cr::before,
+.token.space::before,
+.token.tab::before {
+  display: none;
+}
+
+.show-invisible .token.space::before,
+.show-invisible .token.tab::before {
+  display: initial;
+}
+
+.show-crlf .token.lf::before,
+.show-crlf .token.crlf::before,
+.show-crlf .token.cr::before {
+  display: initial;
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+  font-family: PT Mono, monospace;
+}
+
+pre[class*="language-"] {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  margin: 0 -1em 1em;
+}
+
+pre.line-numbers {
+  margin-left: -3.2em;
+  padding-left: 3.2em;
+}
+
+.slide pre code:not(:only-child)::before {
+  display: none;
+}
+
+.slide p {
+  margin-bottom: 0;
+}
+
+.slide p + p,
+.slide p + ul,
+.slide p + figure,
+.slide p + ol {
+  margin-top: 1em;
+}
+
+.slide pre code {
+  display: initial;
+  margin-left: 0;
+  padding: 0;
+  line-height: inherit;
+  white-space: inherit;;
+  -moz-tab-size: 2;
+  -o-tab-size: 2;
+  tab-size: 2;
+}
+
+.slide pre mark {
+  z-index: 0;
+  margin: 0 -.2em;
+}
+
+.slide ol li,
+.slide ul li,
+.slide p,
+.slide figcaption {
+  line-height: 1.5;
+}
+
+.slide ol li::before,
+.slide ul li::before {
+  width: 3em;
+}
+
+.slide figure > img {
+  width: 100%;
+}
+
+.slide li + li {
+  margin-top: 0.5em;
+}

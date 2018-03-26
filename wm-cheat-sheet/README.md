@@ -1,0 +1,1 @@
+Шпаргалка размещена на Github-pages по адресу - [https://netology-code.github.io/guides/wm-cheat-sheet](https://netology-code.github.io/guides/wm-cheat-sheet)

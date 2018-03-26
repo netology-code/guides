@@ -1,0 +1,90 @@
+ol {
+    list-style-type: decimal; 
+    counter-reset: li;
+}
+ol li:before {
+    content: '';
+}
+section {
+    font-size: 1.5rem;
+}
+
+blockquote {
+    background: #f7f7f7;
+    border-left: 1px solid #bbb;
+    font-style: italic;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+blockquote:before {
+    color: #bbb;
+    content: "\201C";
+    font-size: 3em;
+    line-height: 0.1em;
+    margin-right: 0.2em;
+    vertical-align: -.4em;
+}
+blockquote:after {
+    color: #bbb;
+    content: "\201D";
+    font-size: 3em;
+    line-height: 0.1em;
+    vertical-align: -.45em;
+}
+blockquote > p:first-child {
+    display: inline;
+}
+dt {
+    font-style: italic;
+}
+dl > dt:nth-child(n+2) {
+    padding-top: 35px;
+    border-top: 1px dashed #f5f5f5;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+caption.table-css {
+font-size: 15px;
+font-weight: 700;
+text-align: left;
+margin-top: 20px;
+}
+
+td, th {
+    width: 200px;
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+td img {
+    width: 70%;
+}
+ol.chapter-list {
+    width: 960px;
+    margin: 0 auto;
+}
+.no-border {
+    border-style: none;
+}
+.chapter-table code {
+    background-color: #FFFFFF;
+    color: inherit;
+}
+.chapter-table td, .chapter-table th {
+    text-align: center;
+}
+ pre.language-html, pre.language-markup {
+   margin: 0;
+ }
+@media print {
+  @page {size:landscape;}
+h1, h2, .social-likes div, .list {display: none;}
+header {position: fixed; top: 0; left: 0; padding: 0;}
+thead::before { content: ' '; display: block; margin-top: 40px;}
+thead {padding: 10px;}
+caption {display: none;}
+.chapter-list {display: none;}
+.chapter-table {page-break-before: always; margin-top: 150px;}
+.chapter-css {page-break-before: always;}
+}

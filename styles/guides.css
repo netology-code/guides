@@ -1,0 +1,11 @@
+.fig, figcaption {
+}
+
+.fig > img {
+  max-width: 100%;
+}
+
+figcaption {
+  margin-top: -1em;
+  margin-bottom: 2em;
+}
