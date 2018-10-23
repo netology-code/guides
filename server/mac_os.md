@@ -26,20 +26,20 @@
 
 <p><img src="img_mac/7.jpg" alt=""></p>
 
-6. Put your project files into Document root. By default it's file:///Applications/MAMP/htdocs 
+6. Разместите ваш файлы вашего проекта в директории Документы (Documents). По умолчанию это папка: file:///Applications/MAMP/htdocs 
 
 <p><img src="img_mac/8.jpg" alt=""></p>
 
-7. Make sure the webserver is running and open WebStart page. By default it's http://localhost:8888/MAMP/ 
+7. Убедитесь, что веб-сервер запущен и открыта стартовая страница (WebStart). По умолчанию это: http://localhost:8888/MAMP/ 
 
 <p><img src="img_mac/9.jpg" alt=""></p>
 
-8. Make sure your the browser show full web address  
+8. Убедитесь, что ваш браузер отображает полный веб-адрес.
 
 <p><img src="img_mac/10.jpg" alt=""></p>
 <p><img src="img_mac/11.jpg" alt=""></p>
 
-9. Open PhpMyAdmin from WebStart page for design your databases. By default it's http://localhost:8888/phpMyAdmin/  
+9. Откройте PhpMyAdmin со страницы WebStart page для настройки ваших баз данных. По умолчанию это: http://localhost:8888/phpMyAdmin/  
 
 <p><img src="img_mac/12.jpg" alt=""></p>
 <p><img src="img_mac/13.jpg" alt=""></p>
