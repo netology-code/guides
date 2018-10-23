@@ -5,6 +5,8 @@
 
 1. Скачайте приложение MAMP на странице: https://www.mamp.info/en/ 
 
+<p><img src="img_mac/1.jpg" alt=""></p>
+
 ![site_mamp](/img_mac/1.jpg)
 
 2. Установите MAMP.
