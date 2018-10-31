@@ -1,8 +1,5 @@
 # Git. Инструкция по установке
 
-###### tags: `netology` `git`
-
-[TOC]
 
 ## Windows
 
