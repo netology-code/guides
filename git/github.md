@@ -11,45 +11,44 @@
 После чего нажмите кнопку "Sign up for GitHub" (4):
 
 <img src="img_github/1.jpg" alt="">
-![](https://i.imgur.com/YEARsz5.jpg)
 
 Удостоверьтесь, что все поля прошли валидацию:
 
-![](https://i.imgur.com/3fH7BBQ.jpg)
+<img src="img_github/2.jpg" alt="">
 
 ## Шаг 1. Верификация аккаунта
 
 Если на предыдущем шаге проблем не возникло, то перед вами откроется страница верификации. Нажмите на ней кнопку "Create an account":
 
-![](https://i.imgur.com/wYFMBDL.jpg)
+<img src="img_github/3.jpg" alt="">
 
 
 ## Шаг 2. Выбор тарифного плана
 
 Для работы нам достаточно будет бесплатного тарифа - Free, поэтому убедитесь, что выбран именно он (1) и нажимайте на кнопку "Continue" (2):
 
-![](https://i.imgur.com/KYEJ1wE.jpg)
+<img src="img_github/4.jpg" alt="">
 
 
 ## Шаг 3. Анкета
 
 Вы можете ответить на вопросы анкеты или просто нажать на ссылку "Skip this step":
 
-![](https://i.imgur.com/vPtxwxc.jpg)
+<img src="img_github/5.jpg" alt="">
 
 
 ## Шаг 4. Верификация Email
 
 На почту, указанную на первом шаге придёт email со ссылкой для верификации. Необходимо подтвердить, что email принадлежит именно вам:
 
-![](https://i.imgur.com/Wvi1YrC.jpg)
+<img src="img_github/6.jpg" alt="">
 
 
 ## Завершение
 
 После выполнения всех описанных выше шагов вы увидите стартовую страницу:
 
-![](https://i.imgur.com/Wv1ujta.jpg)
+<img src="img_github/7.jpg" alt="">
 
 ## Если что-то пошло не так
 
