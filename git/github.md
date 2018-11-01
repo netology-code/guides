@@ -10,6 +10,7 @@
 
 После чего нажмите кнопку "Sign up for GitHub" (4):
 
+<img src="img_github/1.jpg" alt="">
 ![](https://i.imgur.com/YEARsz5.jpg)
 
 Удостоверьтесь, что все поля прошли валидацию:
