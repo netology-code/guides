@@ -31,7 +31,7 @@
 
 В Linux достаточно щёлкнуть правой кнопкой мыши на каталоге и выбрать пункт меню `Open in Terminal` или `Открыть в терминале`:
 
-![](https://i.imgur.com/qyNECrQ.png)
+![](./images/1.png)
 
 ![](https://i.imgur.com/MUqKhrW.png)
 
