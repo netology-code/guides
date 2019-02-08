@@ -26,7 +26,7 @@
 
 <p><img src="img_mac/7.jpg" alt=""></p>
 
-6. Разместите ваш файлы вашего проекта в директории Документы (Documents). По умолчанию это папка: file:///Applications/MAMP/htdocs 
+6. Разместите файлы вашего проекта в директории Документы (Documents). По умолчанию это папка: file:///Applications/MAMP/htdocs 
 
 <p><img src="img_mac/8.jpg" alt=""></p>
 
