@@ -1,3 +1,17 @@
+# Что такое IDE
+
+[IDE](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8) — это среда разработки, где вы пишете код. 
+
+Почему лучше работать в IDE?
+* ускоряет работу, 
+* есть подсветка ошибок, 
+* есть отладка по шагам,
+* вызов документации,
+* интеграция с Git и GitHub.
+
+Рекомендуем IDE Intellij Idea, версия Community.
+
+
 # Как установить и настроить IntelliJ IDEA 
 
 1. Предварительно скачайте Java Development Kit [по ссылке](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html). Выберите версию для любой операционной системы. 
@@ -13,7 +27,7 @@
 <img src="img/3.jpg" alt="">
 
 
-4. Скачайте Community Edition-версию программы по ссылке. Можно выбрать версию для любой операционной системы — Windows, MacOS или Linux. 
+4. Скачайте Community Edition-версию программы [по ссылке](https://www.jetbrains.com/idea/download/). Можно выбрать версию для любой операционной системы — Windows, MacOS или Linux. 
 
 <img src="img/4.jpg" alt="">
 
