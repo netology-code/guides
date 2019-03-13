@@ -18,11 +18,16 @@
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/linux/python_info.jpg?raw=true)
 
 Установлен Python 3.6.7, актуальная версия Python 3.7.2.
+
 Выполняем:
+
 *sudo apt-get install python3.7*
+
 Запускаем
+
 *python3.7*
-	Инструкция ниже нужна, если необходимо установить python из исходников.
+
+Инструкция ниже нужна, если необходимо установить python из исходников.
 
 **1.	Установка Python.**
 
@@ -36,6 +41,7 @@
 
 Извлекаем скачанный архив через GUI или командой в терминале
 *tar -zxvf ~/Загрузки/Python-3.7.2.tgz*
+
 Установим зависимости:
 	*sudo apt-get install build-essential python-dev python-setuptools python-pip python-smbus
 	sudo apt-get install libncursesw5-dev libgdbm-dev libc6-dev
