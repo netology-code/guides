@@ -5,8 +5,8 @@
 Скорее всего python уже установлен, но не самая актуальная версия.
 Открывает терминал *CTRL+ALT+T*
 Набираем:
-*sudo apt-get update
-sudo apt-get upgrade python3
+*sudo apt-get update*
+*sudo apt-get upgrade python3
 python3*
 Должна появится информация о версии python и приглашение для ввода
 
@@ -19,7 +19,7 @@ python3*
 *python3.7*
 	Инструкция ниже нужна, если необходимо установить python из исходников.
 
-	**1.	Установка Python.**
+**1.	Установка Python.**
 Заходим на официальный сайт в раздел загрузок [](https://www.python.org/downloads/), далее выбираем последнюю версию
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/linux/instalation.jpg?raw=true)
