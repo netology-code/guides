@@ -43,19 +43,30 @@
 *tar -zxvf ~/Загрузки/Python-3.7.2.tgz*
 
 Установим зависимости:
-	*sudo apt-get install build-essential python-dev python-setuptools python-pip python-smbus
-	sudo apt-get install libncursesw5-dev libgdbm-dev libc6-dev
-  sudo apt-get install zlib1g-dev libsqlite3-dev tk-dev
-	sudo apt-get install libssl-dev openssl
-	sudo apt-get install libffi-dev*
-	Переходим в папку
-	*cd ~/Python-3.7.2*
-	Выполняем
-  *./configure
-	sudo make altinstall*
+
+*sudo apt-get install build-essential python-dev python-setuptools python-pip python-smbus*
+
+*sudo apt-get install libncursesw5-dev libgdbm-dev libc6-dev*
+
+*sudo apt-get install zlib1g-dev libsqlite3-dev tk-dev*
+
+*sudo apt-get install libssl-dev openssl*
+
+*sudo apt-get install libffi-dev*
+
+Переходим в папку
+
+*cd ~/Python-3.7.2*
+
+Выполняем
+
+ *./configure*
+*sudo make altinstall*
 
 **2.	Запускаем интерпретатор из командной строки**
-*CTRL — ALT — T
-python3.7*
+
+*CTRL — ALT — T*
+
+*python3.7*
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/linux/launch.jpg?raw=true)
