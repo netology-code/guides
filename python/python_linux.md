@@ -9,9 +9,9 @@
 
 *sudo apt-get update*
 
-*sudo apt-get upgrade python3
+*sudo apt-get upgrade python3*
 
-python3*
+*python3*
 
 Должна появится информация о версии python и приглашение для ввода
 
