@@ -20,6 +20,7 @@ python3*
 	Инструкция ниже нужна, если необходимо установить python из исходников.
 
 **1.	Установка Python.**
+
 Заходим на официальный сайт в раздел загрузок [](https://www.python.org/downloads/), далее выбираем последнюю версию
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/linux/instalation.jpg?raw=true)
