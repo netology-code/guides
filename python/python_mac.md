@@ -5,9 +5,12 @@
 Заходим на официальный сайт https://www.python.org, далее выбираем Downloads и нажимаем на кнопку под *Download for Mac OS X*.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/mac/python_mac_1.jpg?raw=true)
+
+Открываем загаженный пакет и нажимаем *Продолжить* в каждом окне.
+
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/mac/python_mac_2.jpg?raw=true)
 
-Открываем загаженный пакет и нажимаем Продолжить в каждом окне.
+Нажимаем *Установить*.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/mac/standart_installation.jpg?raw=true)
 
