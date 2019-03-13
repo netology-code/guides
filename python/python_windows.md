@@ -1,5 +1,7 @@
 **Устанавливаем и настраиваем Python в Windows, получаем доступ к интерпретатору из командной строки.**
+
 **1.	Установка Python.**
+
 Заходим на официальный сайт в раздел загрузок [](https://www.python.org/downloads/), далее выбираем последнюю версию
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/version.jpg?raw=true)
@@ -22,10 +24,14 @@
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/optional_features.jpg?raw=true)
 
 Ставим обязательно галочки:
-*Install for all users
-Associate files with Python
-Add Python to environment variables
-Precompile standard library*
+
+*Install for all users*
+
+*Associate files with Python*
+
+*Add Python to environment variables*
+
+*Precompile standard library*
 
 Указываем путь установки в *Customize install location* и нажимаем *Install*
 
