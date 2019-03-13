@@ -4,10 +4,15 @@
 
 Скорее всего python уже установлен, но не самая актуальная версия.
 Открывает терминал *CTRL+ALT+T*
+
 Набираем:
+
 *sudo apt-get update*
+
 *sudo apt-get upgrade python3
+
 python3*
+
 Должна появится информация о версии python и приглашение для ввода
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/linux/python_info.jpg?raw=true)
