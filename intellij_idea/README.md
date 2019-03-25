@@ -15,6 +15,7 @@
 # Как установить и&nbsp;настроить IntelliJ IDEA 
 
 1. Предварительно скачайте Java Development Kit&nbsp;11 [по&nbsp;ссылке](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html). Выберите версию для любой операционной системы. 
+
 ![](./img/QlwaoTU.png)
 
 
@@ -29,9 +30,6 @@
 4. Следуйте подсказкам установщика и&nbsp;подождите несколько минут до&nbsp;окончания установки.
 
 ![](./img/Hf9a9xi.png)
-
-
-
 
 5. Скачайте Community Edition-версию программы [по&nbsp;ссылке](https://www.jetbrains.com/idea/download/). Можно выбрать версию для любой операционной системы&nbsp;&mdash; Windows, MacOS или Linux. 
 
