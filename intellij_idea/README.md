@@ -13,7 +13,7 @@
 
 
 # Как установить и&nbsp;настроить IntelliJ IDEA 
-Рекомендуем установить JDK 8&nbsp;для тех, кто будет работать в&nbsp;Android Studio для разработки андроид-приложений. Все остальные могут использовать версию JDK 11.
+Рекомендуем установить JDK 8&nbsp;для тех, кто будет работать в&nbsp;Android Studio для разработки андроид-приложений (для студенов курса Android-разработчик). Все остальные могут использовать версию [JDK 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html).
 1. Предварительно скачайте Java Development Kit [по&nbsp;ссылке](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). Выберите версию для любой операционной системы. 
 ![](./img/qAUzdEh.png)
 
