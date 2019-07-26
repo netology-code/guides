@@ -361,6 +361,10 @@ etc.
 # Ю
 
 Юникод (Unicode) — принцип кодирования символов, позволяющий представить почти любой знак существующих письменных языков
+
+
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
+
  
 # A
 
@@ -429,7 +433,7 @@ UX (англ. User eXperience — опыт пользователя) — ощу�
 UI (англ. User Interface — пользовательский интерфейс) — это инструмент, позволяющий осуществлять взаимодействие «пользователь — приложение».
  
  
- 
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
 
 
@@ -469,7 +473,7 @@ ____________________________
 
 <img src="img/image20.png" alt="">   
 
-
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 ____________________________
 
 ## Списки
@@ -491,6 +495,8 @@ ____________________________
 #### Radio button list - Список с переключателями
 
 <img src="img/image29.png" alt=""> 
+
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 _____________________________
 
 ## Всплывающие 
@@ -509,6 +515,7 @@ _____________________________
 
 <img src="img/image35.png" alt="">   
 
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 _______________________________
 ## Края 
  
@@ -533,6 +540,7 @@ _______________________________
 
 <img src="img/image9.png" alt="">   
 
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 __________________________
 
 ## Индикаторы 
@@ -550,6 +558,7 @@ __________________________
 
 <img src="img/image33.png" alt="">   
 
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 __________________________
 
 ## Фокус 
@@ -562,6 +571,7 @@ __________________________
 
 <img src="img/image26.png" alt="">   
 
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 __________________________
 
 ## Инструменты 
@@ -574,6 +584,8 @@ __________________________
 #### Toolbar - панель инструментов
 
 <img src="img/image5.png" alt="">   
+
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
 ___________________________
 
@@ -595,6 +607,8 @@ ___________________________
 #### Toggle button - Двухпозиционный переключатель, тогл
 
 <img src="img/image45.png" alt="">
+
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
 ____________________________
 
@@ -638,6 +652,8 @@ _____________________________
 
 <img src="img/image30.png" alt="">   
 
+
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 _______________________________
 
 ## Картинки 
@@ -660,6 +676,7 @@ _______________________________
 <img src="img/image34.png" alt="">   
 
 
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 _______________________________
 
 ## Прочее 
@@ -711,4 +728,4 @@ _______________________________
 
 
 
-
+[Вернуться к содержанию](https://github.com/netology-code/guides/blob/master/glossary_qa/README.md#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
