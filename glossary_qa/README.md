@@ -457,154 +457,227 @@ ____________________________
 <img src="img/image7.png" alt="">   
  
 
+#### Combo box / Drop down list - выпадающий/раскрывающийся список
+
+<img src="img/image8.png" alt="">   
+
+#### List box - Линейный список
+
+<img src="img/image9.png" alt="">   
+
  
-Combo box / Drop down list
-выпадающий/раскрывающийся список
- 
-List box
-Линейный список
- 
-Radio button list
-Список с переключателями
-Всплывающие 
- 
- 
-Flyout
-всплывающий элемент, например в меню
- 
-Popup window
-всплывающее окно, попап
- 
-Tooltip
-Всплывающая подсказка
-Края 
+#### Radio button list - Список с переключателями
+
+_____________________________
+
+## Всплывающие 
+
+#### Flyout - всплывающий элемент, например в меню
+
+<img src="img/image10.png" alt="">   
  
  
-Border
-рамка
- 
-Frame
-рамка
- 
-Scroll bar
-полоса прокрутки
- 
-Separator
-разделитель
- 
-Splitter
-разделитель
-Индикаторы 
+#### Popup window - всплывающее окно, попап
+
+<img src="img/image11.png" alt="">   
+
+
+#### Tooltip - Всплывающая подсказка
+
+<img src="img/image12.png" alt="">   
+
+_______________________________
+## Края 
  
  
-Busy indicator
-индикатор занятости
+#### Border - рамка
+
+<img src="img/image13.png" alt="">   
  
-Progress bar
-индикатор прогресса
+#### Frame - рамка
+
+<img src="img/image14.png" alt="">   
  
-Status bar
-строка состояния
-Фокус 
+#### Scroll bar - полоса прокрутки
+
+<img src="img/image15.png" alt="">   
  
-Cursor
-курсор
+#### Separator - разделитель
+
+<img src="img/image16.png" alt="">   
  
-Pointer
-указатель
-Инструменты 
+#### Splitter - разделитель
+
+<img src="img/image17.png" alt="">   
+
+__________________________
+
+## Индикаторы 
+ 
+ 
+##### Busy indicator - индикатор занятости
+
+<img src="img/image18.png" alt="">   
+ 
+#### Progress bar - индикатор прогресса
+
+<img src="img/image19.png" alt="">   
+ 
+#### Status bar - строка состояния
+
+<img src="img/image20.png" alt="">   
+
+__________________________
+
+## Фокус 
+ 
+#### Cursor - курсор
+
+<img src="img/image21.png" alt="">   
+ 
+#### Pointer - указатель
+
+<img src="img/image22.png" alt="">   
+
+__________________________
+
+## Инструменты 
  
 
-Ribbon
-Лента/закладка
- 
-Toolbar
-панель инструментов
-Кнопки 
- 
- 
-Button
-кнопка
- 
-Check box
-галка, флажок
- См. выше
-Radio button
-переключатель
+#### Ribbon - Лента/закладка
 
-Toggle button
-Двухпозиционный переключатель, тогл
-Счетчики 
+<img src="img/image23.png" alt="">   
  
+#### Toolbar - панель инструментов
 
-Slider
-ползунок
+<img src="img/image24.png" alt="">   
 
-Spinner / Numeric up and down
-Спиннер, крутилка
+___________________________
 
-Timeline
-временная шкала
-Ввод данных 
+## Кнопки 
  
- 
-Autocomplete
-автоподсказка
- 
-Masked input
-поле ввода с фильтром
+#### Button - кнопка
 
-Rich text
-форматируемый текст
+<img src="img/image25.png" alt="">   
  
-Text box / input
-поле ввода
- 
-Captcha
-Капча
-Картинки 
+#### Check box - галка, флажок
+
+<img src="img/image26.png" alt="">   
+
+
+#### Radio button - переключатель
+
+См. выше
+
+#### Toggle button - Двухпозиционный переключатель, тогл
+
+<img src="img/image27.png" alt="">
+
+____________________________
+
+## Счетчики 
  
 
-Canvas
-холст, канва
- 
-Chart
-диаграмма
+#### Slider - ползунок
 
-Color picker
-палитра
- 
-Icon
-иконка, пиктограмма, значок
-Прочее 
- 
- 
-Date/Time picker
-календарь
+<img src="img/image28.png" alt="">   
 
-Dock panel
-панель закрепления
- 
-Draggable element
-перетаскиваемый элемент
+#### Spinner / Numeric up and down - Спиннер, крутилка
 
-Expander
-Экспандер, расширяющийся элемент
+<img src="img/image29.png" alt="">   
 
-Gauge
--метр (манометр, спидометр, фаллометр), измерительный прибор
- 
-Label
-надпись
+#### Timeline - временная шкала
 
-Spreadsheet
-электронная таблица
+<img src="img/image30.png" alt="">   
+
+_____________________________
+
+## Ввод данных 
  
-Tab
-вкладка, закладка
  
-Upload file
-загрузка файла
+#### Autocomplete - автоподсказка
+
+<img src="img/image31.png" alt="">   
  
-Wizard
-мастер
+#### Masked input - поле ввода с фильтром
+
+<img src="img/image32.png" alt="">   
+
+#### Rich text - форматируемый текст
+
+<img src="img/image33.png" alt="">   
+ 
+#### Text box / input - поле ввода
+
+<img src="img/image34.png" alt="">   
+ 
+#### Captcha - Капча
+
+<img src="img/image35.png" alt="">   
+
+_______________________________
+
+## Картинки 
+ 
+
+#### Canvas - холст, канва
+
+<img src="img/image36.png" alt="">  
+ 
+#### Chart - диаграмма
+
+<img src="img/image37.png" alt="">   
+
+#### Color picker - палитра
+
+<img src="img/image38.png" alt="">   
+ 
+#### Icon - иконка, пиктограмма, значок
+
+<img src="img/image39.png" alt="">   
+
+
+_______________________________
+
+## Прочее 
+ 
+ 
+#### Date/Time picker - календарь
+
+<img src="img/image40.png" alt=""> 
+
+#### Dock panel - панель закрепления
+
+<img src="img/image41.png" alt="">   
+ 
+#### Draggable element - перетаскиваемый элемент
+
+<img src="img/image42.png" alt="">   
+
+#### Expander - Экспандер, расширяющийся элемент
+
+<img src="img/image43.png" alt="">   
+
+#### Gauge - метр (манометр, спидометр, фаллометр), измерительный прибор
+
+<img src="img/image44.png" alt="">   
+ 
+#### Label - надпись
+
+<img src="img/image45.png" alt="">   
+
+#### Spreadsheet - электронная таблица
+
+<img src="img/image46.png" alt="">   
+ 
+#### Tab - вкладка, закладка
+
+<img src="img/image47.png" alt="">   
+ 
+#### Upload file - загрузка файла
+
+<img src="img/image48.png" alt="">   
+ 
+### Wizard - мастер
+
+<img src="img/image49.png" alt="">   
