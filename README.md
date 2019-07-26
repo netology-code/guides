@@ -11,3 +11,4 @@
 9. [Git. Краткое руководство по терминалу](./git-terminal/git-terminal.md)
 10. [Инструкция по установке Intellij IDEA для Java](intellij_idea/)
 11. [Инструкции по установке и настройке Python](python/)
+12. [Глоссарий QA](glossary_qa/)
