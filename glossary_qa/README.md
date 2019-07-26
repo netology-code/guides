@@ -420,32 +420,32 @@ ____________________________
 
 ####  Accordion — аккордеон
 
-<img src="img/image1.png" alt="">   
+<img src="img/image3.png" alt="">   
 
 
 ####  Carousel — Просмотр с помощью прокрутки
 
-<img src="img/image2.png" alt="">   
+<img src="img/image15.png" alt="">   
  
 
 #### Grid — Сетка 
 
-<img src="img/image3.png" alt=""> 
+<img src="img/image14.png" alt=""> 
 
 
 #### Slideshow — слайд-шоу, крутилка,  показ слайдов, прокрутка изображений
  
-<img src="img/image4.png" alt="">   
+ 
 
 
 #### Tree list/view — дерево, иерархический список 
 
-<img src="img/image5.png" alt=""> 
+<img src="img/image19.png" alt=""> 
 
 
 #### Tile — плитка
 
-<img src="img/image6.png" alt="">   
+<img src="img/image20.png" alt="">   
 
 
 ____________________________
@@ -454,37 +454,38 @@ ____________________________
 
 #### Check box list — галки, флажки
 
-<img src="img/image7.png" alt="">   
+<img src="img/image2.png" alt="">   
  
 
 #### Combo box / Drop down list - выпадающий/раскрывающийся список
 
-<img src="img/image8.png" alt="">   
+<img src="img/image41.png" alt="">   
 
 #### List box - Линейный список
 
-<img src="img/image9.png" alt="">   
+<img src="img/image4.png" alt="">   
 
  
 #### Radio button list - Список с переключателями
 
+<img src="img/image29.png" alt=""> 
 _____________________________
 
 ## Всплывающие 
 
 #### Flyout - всплывающий элемент, например в меню
 
-<img src="img/image10.png" alt="">   
+<img src="img/image32.png" alt="">   
  
  
 #### Popup window - всплывающее окно, попап
 
-<img src="img/image11.png" alt="">   
+<img src="img/image8.png" alt="">   
 
 
 #### Tooltip - Всплывающая подсказка
 
-<img src="img/image12.png" alt="">   
+<img src="img/image35.png" alt="">   
 
 _______________________________
 ## Края 
@@ -492,23 +493,23 @@ _______________________________
  
 #### Border - рамка
 
-<img src="img/image13.png" alt="">   
+<img src="img/image12.png" alt="">   
  
 #### Frame - рамка
 
-<img src="img/image14.png" alt="">   
+<img src="img/image43.png" alt="">   
  
 #### Scroll bar - полоса прокрутки
 
-<img src="img/image15.png" alt="">   
+<img src="img/image27.png" alt="">   
  
 #### Separator - разделитель
 
-<img src="img/image16.png" alt="">   
+<img src="img/image24.png" alt="">   
  
 #### Splitter - разделитель
 
-<img src="img/image17.png" alt="">   
+<img src="img/image9.png" alt="">   
 
 __________________________
 
@@ -517,15 +518,15 @@ __________________________
  
 ##### Busy indicator - индикатор занятости
 
-<img src="img/image18.png" alt="">   
+<img src="img/image44.png" alt="">   
  
 #### Progress bar - индикатор прогресса
 
-<img src="img/image19.png" alt="">   
+<img src="img/image22.png" alt="">   
  
 #### Status bar - строка состояния
 
-<img src="img/image20.png" alt="">   
+<img src="img/image33.png" alt="">   
 
 __________________________
 
@@ -533,11 +534,11 @@ __________________________
  
 #### Cursor - курсор
 
-<img src="img/image21.png" alt="">   
+<img src="img/image40.png" alt="">   
  
 #### Pointer - указатель
 
-<img src="img/image22.png" alt="">   
+<img src="img/image26.png" alt="">   
 
 __________________________
 
@@ -550,7 +551,7 @@ __________________________
  
 #### Toolbar - панель инструментов
 
-<img src="img/image24.png" alt="">   
+<img src="img/image5.png" alt="">   
 
 ___________________________
 
@@ -558,11 +559,11 @@ ___________________________
  
 #### Button - кнопка
 
-<img src="img/image25.png" alt="">   
+<img src="img/image13.png" alt="">   
  
 #### Check box - галка, флажок
 
-<img src="img/image26.png" alt="">   
+<img src="img/image6.png" alt="">   
 
 
 #### Radio button - переключатель
@@ -571,7 +572,7 @@ ___________________________
 
 #### Toggle button - Двухпозиционный переключатель, тогл
 
-<img src="img/image27.png" alt="">
+<img src="img/image45.png" alt="">
 
 ____________________________
 
@@ -580,15 +581,15 @@ ____________________________
 
 #### Slider - ползунок
 
-<img src="img/image28.png" alt="">   
+<img src="img/image21.png" alt="">   
 
 #### Spinner / Numeric up and down - Спиннер, крутилка
 
-<img src="img/image29.png" alt="">   
+<img src="img/image16.png" alt="">   
 
 #### Timeline - временная шкала
 
-<img src="img/image30.png" alt="">   
+<img src="img/image1.png" alt="">   
 
 _____________________________
 
@@ -597,23 +598,23 @@ _____________________________
  
 #### Autocomplete - автоподсказка
 
-<img src="img/image31.png" alt="">   
+<img src="img/image18.png" alt="">   
  
 #### Masked input - поле ввода с фильтром
 
-<img src="img/image32.png" alt="">   
+<img src="img/image37.png" alt="">   
 
 #### Rich text - форматируемый текст
 
-<img src="img/image33.png" alt="">   
+<img src="img/image39.png" alt="">   
  
 #### Text box / input - поле ввода
 
-<img src="img/image34.png" alt="">   
+<img src="img/image28.png" alt="">   
  
 #### Captcha - Капча
 
-<img src="img/image35.png" alt="">   
+<img src="img/image30.png" alt="">   
 
 _______________________________
 
@@ -622,19 +623,19 @@ _______________________________
 
 #### Canvas - холст, канва
 
-<img src="img/image36.png" alt="">  
+<img src="img/image17.png" alt="">  
  
 #### Chart - диаграмма
 
-<img src="img/image37.png" alt="">   
+<img src="img/image25.png" alt="">   
 
 #### Color picker - палитра
 
-<img src="img/image38.png" alt="">   
+<img src="img/image10.png" alt="">   
  
 #### Icon - иконка, пиктограмма, значок
 
-<img src="img/image39.png" alt="">   
+<img src="img/image34.png" alt="">   
 
 
 _______________________________
@@ -644,40 +645,48 @@ _______________________________
  
 #### Date/Time picker - календарь
 
-<img src="img/image40.png" alt=""> 
+<img src="img/image7.png" alt=""> 
 
 #### Dock panel - панель закрепления
 
-<img src="img/image41.png" alt="">   
+<img src="img/image38.png" alt="">   
  
 #### Draggable element - перетаскиваемый элемент
 
-<img src="img/image42.png" alt="">   
+<img src="img/image31.png" alt="">   
 
 #### Expander - Экспандер, расширяющийся элемент
 
-<img src="img/image43.png" alt="">   
+<img src="img/image11.png" alt="">   
 
 #### Gauge - метр (манометр, спидометр, фаллометр), измерительный прибор
 
-<img src="img/image44.png" alt="">   
+<img src="img/image36.png" alt="">   
  
 #### Label - надпись
 
-<img src="img/image45.png" alt="">   
+
+
+
 
 #### Spreadsheet - электронная таблица
 
-<img src="img/image46.png" alt="">   
+<img src="img/image42.png" alt="">   
  
 #### Tab - вкладка, закладка
 
-<img src="img/image47.png" alt="">   
+
+
+
  
 #### Upload file - загрузка файла
 
-<img src="img/image48.png" alt="">   
+
+
+
  
 ### Wizard - мастер
 
-<img src="img/image49.png" alt="">   
+
+
+
