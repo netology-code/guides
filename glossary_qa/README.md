@@ -413,32 +413,50 @@ UI (англ. User Interface — пользовательский интерфе
 
 
 
+____________________________
 
 
+## Группировка данных
 
-**Группировка данных**              |                | . 
------------------------------------ | -------------- | -------------
+####  Accordion — аккордеон
 
-<img src="img/image1.png" alt="">   |  Accordion     |  аккордеон
+<img src="img/image1.png" alt="">   
 
-<img src="img/image2.png" alt="">   |  Carousel      |  Просмотр с помощью прокрутки
+
+####  Carousel — Просмотр с помощью прокрутки
+
+<img src="img/image2.png" alt="">   
  
-<img src="img/image3.png" alt="">   | Grid           |  Сетка
+
+#### Grid — Сетка 
+
+<img src="img/image3.png" alt=""> 
+
+
+#### Slideshow — слайд-шоу, крутилка,  показ слайдов, прокрутка изображений
  
-<img src="img/image4.png" alt="">   | Slideshow      | слайд-шоу, крутилка,  показ слайдов, прокрутка изображений
+<img src="img/image4.png" alt="">   
+
+
+#### Tree list/view — дерево, иерархический список 
+
+<img src="img/image5.png" alt=""> 
+
+
+#### Tile — плитка
+
+<img src="img/image6.png" alt="">   
+
+
+____________________________
+
+## Списки
+
+#### Check box list — галки, флажки
+
+<img src="img/image7.png" alt="">   
  
-<img src="img/image5.png" alt="">   | Tree list/view | дерево, иерархический список
 
-<img src="img/image6.png" alt="">   | Tile           | плитка
-
-
-
-------------- | ------------- | -------------
-**Списки**        |               | .             
-------------- | ------------- | -------------
- 
-Check box list
-галки, флажки
  
 Combo box / Drop down list
 выпадающий/раскрывающийся список
