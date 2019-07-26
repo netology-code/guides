@@ -416,20 +416,22 @@ UI (англ. User Interface — пользовательский интерфе
 
 
 
-**Группировка данных** | .        | .            
-------------- | ------------- | -------------
+**Группировка данных**              |                | . 
+----------------------------------- | -------------- | -------------
 
-<img src="img/1.jpg" alt="">   |  Accordion  |  аккордеон
+<img src="img/image1.png" alt="">   |  Accordion     |  аккордеон
 
-<img src="img/2.jpg" alt="">   |  Carousel   |  Просмотр с помощью прокрутки
+<img src="img/image2.png" alt="">   |  Carousel      |  Просмотр с помощью прокрутки
  
-<img src="img/3.jpg" alt="">   | Grid        |  Сетка
+<img src="img/image3.png" alt="">   | Grid           |  Сетка
  
-<img src="img/4.jpg" alt="">   | Slideshow   | слайд-шоу, крутилка,  показ слайдов, прокрутка изображений
+<img src="img/image4.png" alt="">   | Slideshow      | слайд-шоу, крутилка,  показ слайдов, прокрутка изображений
  
-<img src="img/5.jpg" alt="">   | Tree list/view | дерево, иерархический список
+<img src="img/image5.png" alt="">   | Tree list/view | дерево, иерархический список
 
-<img src="img/6.jpg" alt="">   | Tile | плитка
+<img src="img/image6.png" alt="">   | Tile           | плитка
+
+
 
 ------------- | ------------- | -------------
 **Списки**        |               | .             
