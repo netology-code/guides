@@ -8,7 +8,7 @@
 
 ## Рекомендуемые модели
 
-Для обучения рекомендуем вам приобрести MacBook или iMac старше 2012 года модельного ряда, а Mac Mini — старше 2014 года. Важно, чтобы могла быть установлена последняя версия macOS.
+Для обучения рекомендуем вам приобрести MacBook или iMac старше 2013 года модельного ряда, а Mac Mini — старше 2014 года. Важно, чтобы могла быть установлена последняя версия macOS.
 
 ![](pic/mac2.png)
 
@@ -25,7 +25,7 @@
 * [Mac Mini (2014+)](https://market.yandex.ru/catalog--nastolnye-kompiutery/54542/list?hid=91011&glfilter=6050807%3A6050815&glfilter=6050883%3A15007400%2C15007398&glfilter=7893318%3A153043&glfilter=16230863%3A16230867%2C16230866&onstock=1&local-offers-first=0)
 
 ### Подержанные модели
-Подержанные компьютеры вы можете найти на [Юле](https://youla.ru/). Минимальная цена будет варьироваться в районе 20 000 — 30 000 рублей. Устройства модельного ряда 2012 — 2014 годов будет достаточно, чтобы успешно обучаться на курсе. Чтобы выбрать устройство, перейдите по ссылке и найдите подходящий модельный ряд.     
+Подержанные компьютеры вы можете найти на [Юле](https://youla.ru/). Минимальная цена будет варьироваться в районе 20 000 — 30 000 рублей. Устройства модельного ряда 2013 — 2014 годов будет достаточно, чтобы успешно обучаться на курсе. Чтобы выбрать устройство, перейдите по ссылке и найдите подходящий модельный ряд.     
 * [MacBook Air / MacBook Pro (2012+)](https://youla.ru/moskva/kompyutery/noutbuki?attributes[notebook_brand][0]=9241&attributes[notebook_tip][0]=9236&attributes[ram_memory][0]=166202&attributes[sort_field]=date_published)
 * [iMac (2012+)](https://youla.ru/moskva/kompyutery/nastolnye-monobloki/monobloki?attributes%5Bram_memory%5D%5B0%5D=166202&attributes%5Bram_memory%5D%5B1%5D=166203&attributes%5Bram_memory%5D%5B2%5D=166204&attributes%5Bram_memory%5D%5B3%5D=166205&attributes%5Bram_memory%5D%5B4%5D=166206&attributes%5Bram_memory%5D%5B5%5D=166207&attributes%5Bram_memory%5D%5B6%5D=166210&q=imac)
 * [Mac Mini (2014+)](https://youla.ru/moskva/kompyutery/nastolnye-monobloki?attributes[ram_memory][0]=166202&attributes[ram_memory][1]=166203&attributes[ram_memory][2]=166204&attributes[ram_memory][3]=166205&attributes[ram_memory][4]=166206&attributes[ram_memory][5]=166207&attributes[ram_memory][6]=166210&q=mac%20mini)
