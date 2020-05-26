@@ -42,6 +42,6 @@
 **Поэтому мы не рекомендуем использовать этот вариант. Сами попробовали установить на компьютер с Windows виртуалку и macOS, она постоянно вылетала.**
 
 
-Если у вас возникли вопросы или вам нужна помощь, напишите нам на email: [a.avtonomova@netology.ru](mailto:a.avtonomova@netology.ru)
+Если у вас возникли вопросы или вам нужна помощь, напишите нам на email: [i.paholkina@netology.ru](mailto:i.paholkina@netology.ru)
 
 
