@@ -9,7 +9,7 @@
 1. [Инструкция по установке Git](git/) 
 1. [Инструкция по регистрации на GitHub](github/)
 1. [Git. Краткое руководство по терминалу](./git-terminal/git-terminal.md)
-1. [Git. Полезные ссылки](https://netology-code/github.io/guides/git-links/)
+1. [Git. Полезные ссылки](https://netology-code.github.io/guides/git-links/)
 1. [Инструкция по установке Intellij IDEA для Java](intellij_idea/)
 1. [Инструкция по установке Java Development Kit (JDK)](jdk_install/)
 1. [Инструкции по установке и настройке Python](python/)
