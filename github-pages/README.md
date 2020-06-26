@@ -23,23 +23,23 @@
 
 1. Загрузите все файлы вашего проекта в ветку **master** созданного репозитория *repo-name*. При этом файл `index.html` должен находиться в корневой директории проекта:
 
-![Структура проекта](img/upload_files.jpg)
+![Структура проекта](img_GH_Pages/upload_files.jpg)
 
 1. Перейдите в настройки (**Settings**) созданного репозитория:
 
-![Настройки репозитория](img/choose-settings.jpg)
+![Настройки репозитория](img_GH_Pages/choose-settings.jpg)
 
 1. В настройках репозитория найдите вкладку **Options**:
 
-![Вкладка Options](img/options.jpg)
+![Вкладка Options](img_GH_Pages/options.jpg)
 
 1. Пролистайте вниз и найдите раздел **Github Pages**. Установите в качестве источника файлов вашей страницы ветку **master** созданного репозитория:
 
-![Установка источника](../img/select-master.jpg)
+![Установка источника](img_GH_Pages/select-master.jpg)
 
 1. Теперь ваш сайт опубликован по адресу вида *your-account-name.github.io/repo-name*:
 
-![Сохранение изменений](img/your-site-address.jpg)
+![Сохранение изменений](img_GH_Pages/your-site-address.jpg)
 
 
 
