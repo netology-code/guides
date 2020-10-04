@@ -19,7 +19,7 @@ Pycharm — это:
 2. Ctrl+Shift+F — поиск по пути.  
 ![image](https://user-images.githubusercontent.com/12861849/95025176-97fe1300-0690-11eb-8ad9-8804893b7a0b.png)
 
-3. Замена строки во всём проекте  
+3. Ctrl+Shift+R - Замена строки во всём проекте  
 ![image](https://user-images.githubusercontent.com/12861849/95025195-acdaa680-0690-11eb-9f6e-777b6400a073.png)
 
 
