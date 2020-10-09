@@ -2,7 +2,7 @@
 
 # Оглавление
 1. [Windows](#windows)
-2. [Mac OS](#mac)
+2. [Mac OS](#mac-os)
 3. [Linux](#linux)
 
 ## Windows
