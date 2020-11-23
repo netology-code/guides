@@ -2,6 +2,7 @@
 
 1. [Шпаргалка по HTML и CSS для контент-менеджера](https://netology-code.github.io/guides/wm-cheat-sheet)
 1. [Инструкция по работе с Codepen](codepen/)
+1. [Инструкция по работе с Repl.it](/repl/instruction.md)
 1. [Инструкция по размещению сайта на GitHub Pages](github-pages/)
 1. [Инструкция по работе с личным кабинетом](account/)
 1. [Инструкция по настройке рабочего пространства для комфортного обучения на курсе PHP](server/)
