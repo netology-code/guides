@@ -5,12 +5,12 @@
 
 ![](2.png)
 
-![](./android_studio/3.png)
+![](3.png)
 
 2. Установка (следуйте инструкциям на картинках):
-![](./android_studio/4.png)
+![](4.png)
 
-![](./android_studio/5.png)
+![](5.png)
 
-![](./android_studio/6.png)
+![](6.png)
 
