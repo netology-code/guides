@@ -1,9 +1,9 @@
 # Инструкция по скачиванию и установке Android Studio
 
 1. Установочный файл доступен на [сайте](https://developer.android.com/studio/). 
-![](./android_studio/1.png)
+![](1.png)
 
-![](./android_studio/2.png)
+![](2.png)
 
 ![](./android_studio/3.png)
 
