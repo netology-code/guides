@@ -2,13 +2,13 @@
 
 1. Нажмите правой кнопкой на проект, выберите **Open Module Settings**. 
 
-![](1.png)
+<img src="1.png" alt="drawing" width="500"/>
 
 2. Выберите Dependencies → app → + → Library Dependencies.
 
 ![](2.png)
 
-3. Найдите com.google.android.material, например, с помощью маски *material*, где * - любой набор символом. 
+3. Найдите com.google.android.material, например, с помощью маски \*material*, где * - любой набор символом. 
 
 ![](3.png)
 
