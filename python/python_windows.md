@@ -2,7 +2,7 @@
 
 **1.	Установка Python.**
 
-Заходим на официальный сайт в раздел загрузок [](https://www.python.org/downloads/), далее выбираем последнюю версию
+Заходим на официальный сайт в раздел загрузок [](https://www.python.org/downloads/), далее выбираем последнюю версию.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/version.jpg?raw=true)
 
