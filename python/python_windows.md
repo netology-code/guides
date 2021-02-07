@@ -40,14 +40,14 @@
 Если появится *Disable path length limit*, нажимаем.
 
 **2.	Запускаем интерпретатор из командной строки**
-Нажимаем на значек пуск.
+Нажимаем на значок пуск.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/pusk.jpg?raw=true)
 
-Выбираем *Служебные Windows -> Командная строка*
+Выбираем *Служебные Windows -> Командная строка*.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/command.jpg?raw=true)
 
-В открывшемся окне прописываем python, должна появится информация о версии python и приглашение для ввода
+В открывшемся окне прописываем python, должна появиться информация о версии python и приглашение для ввода.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/black_window.jpg?raw=true)
