@@ -6,7 +6,7 @@
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/version.jpg?raw=true)
 
-Пролистываем открывшуюся страницу до конца. И выбираем *Windows x86-64 executable installer* или *Windows x86 executable installer* в зависимости от Вашей версии Windows.
+Пролистываем открывшуюся страницу до конца. И выбираем *Windows x86-64 executable installer* или *Windows x86 executable installer* в зависимости от вашей версии Windows.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/windows_installer.jpg?raw=true)
 
@@ -15,7 +15,7 @@
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/properties.jpg?raw=true)
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/x64.jpg?raw=true)
 
-После скачивания, запускаем инсталятор. Ставим галочку *Add Python to PATH*, и выбираем *Customize installation*
+После скачивания запускаем инсталлятор. Ставим галочку *Add Python to PATH* и выбираем *Customize installation*.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/install_python.png.jpg?raw=true)
 
@@ -39,7 +39,7 @@
 
 Если появится *Disable path length limit*, нажимаем.
 
-**2.	Запускаем интерпретатор из командной строки**
+**2.	Запускаем интерпретатор из командной строки**.
 Нажимаем на значок пуск.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/pusk.jpg?raw=true)
