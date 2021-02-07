@@ -33,7 +33,7 @@
 
 *Precompile standard library*
 
-Указываем путь установки в *Customize install location* и нажимаем *Install*
+Указываем путь установки в *Customize install location* и нажимаем *Install*.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/advanced_options.jpg?raw=true)
 
