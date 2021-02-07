@@ -14,12 +14,12 @@
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/mac/standart_installation.jpg?raw=true)
 
-**2.	Запускаем интерпретатор из командной строки**
+**2.	Запускаем интерпретатор из командной строки.**
 
 Нажимает *SHIFT – CMD – *, в открывшемся окне выбираем *Терминал*.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/mac/terminal.jpg?raw=true)
 
-В открывшемся окне прописываем python3, должна появится информация о версии python и приглашение для ввода.
+В открывшемся окне прописываем python3, должна появиться информация о версии python и приглашение для ввода.
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/mac/info.jpg?raw=true)
