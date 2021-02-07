@@ -24,7 +24,7 @@
 
 *sudo apt-get install python3.7*
 
-Запускаем
+Запускаем:
 
 *python3.7*
 
@@ -40,7 +40,7 @@
 
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/linux/gzipped_source_toolbar.jpg?raw=true)
 
-Извлекаем скачанный архив через GUI или командой в терминале
+Извлекаем скачанный архив через GUI или командой в терминале:
 *tar -zxvf ~/Загрузки/Python-3.7.2.tgz*
 
 Установим зависимости:
@@ -55,11 +55,11 @@
 
 *sudo apt-get install libffi-dev*
 
-Переходим в папку
+Переходим в папку:
 
 *cd ~/Python-3.7.2*
 
-Выполняем
+Выполняем:
 
  *./configure*
 *sudo make altinstall*
