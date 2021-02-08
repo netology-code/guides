@@ -6,3 +6,7 @@
 4. [Инструкция по добавлению бибилиотеки Material Design Components.](MaterialDesign/instruction.md) 
 5. [Инструкция по запуску приложения на реальном устройстве.](device/instruction.md)
 
+# Инструкции для домашних заданий
+
+1. [Инструкция по сдаче домашнего задания.](homework/instruction.md)
+
