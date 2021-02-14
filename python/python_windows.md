@@ -38,7 +38,7 @@
 ![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/advanced_options.jpg?raw=true)
 
 Если появится *Disable path length limit*, то нажимаем на этот блок.
-![](https://github.com/AlyonaZh/guides/blob/master/python/pics/windows/disable_limit.png?raw=true)
+![](https://github.com/netology-code/guides/tree/master/python/pics/windows/disable_limit.png?raw=true)
 
 **2.	Запускаем интерпретатор из командной строки**
 Нажимаем на значек пуск.
