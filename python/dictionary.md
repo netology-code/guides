@@ -1,8 +1,7 @@
 # Словарь терминов по курсу «Python-разработчик с нуля»
 Термины A-Z |A|B||C|D|E|F|G|H|I|J|K|L|M|N|O|[P](https://github.com/netology-code/guides/blob/master/python/dictionary.md#p)|Q|[R](https://github.com/netology-code/guides/blob/master/python/dictionary.md#r)|S|T|U|V|W|X|Y|Z|  
 Термины А-Я |[А](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D0%B0)|[Б](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D0%B1)|В|Г|[Д](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D0%B4)|Е|Ё|Ж|З|[И](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D0%B8)|Й|[К](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D0%BA)|Л|[М](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D0%BC)|Н|[О](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D0%BE)|[П](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D0%BF)|Р|[С](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D1%81)|Т|[У](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D1%83)|[Ф](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D1%84)|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|
-> `Для поиска конкретного термина рекомендуем использовать сочетание клавиш Ctrl+F.`
-`илрлли`
+`Для поиска конкретного термина рекомендуем использовать сочетание клавиш Ctrl+F.`
 ## <p align="center">P</p>
 ### Python
 Интерпретируемый язык с динамической типизацией. Другими словами, он самостоятельно определяет тип объекта, который мы хотим сохранить в переменной.
