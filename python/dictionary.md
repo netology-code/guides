@@ -1,6 +1,6 @@
 # Словарь терминов по курсу «Python-разработчик с нуля»
-<p align="center">|A|B||C|D|E|F|G|H|I|J|K|L|M|N|O|[P](https://github.com/netology-code/guides/blob/master/python/dictionary.md#p)|Q|[R](https://github.com/netology-code/guides/blob/master/python/dictionary.md#r)|S|T|U|V|W|X|Y|Z|</p>  
-<p align="center">|А|Б|В|Г|Д|Е|Ё|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|</p> 
+|A|B||C|D|E|F|G|H|I|J|K|L|M|N|O|[P](https://github.com/netology-code/guides/blob/master/python/dictionary.md#p)|Q|[R](https://github.com/netology-code/guides/blob/master/python/dictionary.md#r)|S|T|U|V|W|X|Y|Z|  
+|А|Б|В|Г|Д|Е|Ё|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|
 ## P
 ### Python
 Интерпретируемый язык с динамической типизацией. Другими словами, он самостоятельно определяет тип объекта, который мы хотим сохранить в переменной.
