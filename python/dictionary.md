@@ -1,5 +1,5 @@
 # Словарь терминов по курсу «Python-разработчик с нуля»
-### |A|B||C|D|E|F|G|H|I|J|K|L|M|N|O|[P](https://github.com/netology-code/guides/blob/master/python/dictionary.md#p)|Q|R|S|T|U|V|W|X|Y|Z|
+### |A|B||C|D|E|F|G|H|I|J|K|L|M|N|O|[P](https://github.com/netology-code/guides/blob/master/python/dictionary.md#p)|Q|[R](https://github.com/netology-code/guides/blob/master/python/dictionary.md#r)|S|T|U|V|W|X|Y|Z|
 ### |А|Б|В|Г|Д|Е|Ё|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|
 # <p align="center">P</p>
 ## Python
