@@ -1,7 +1,7 @@
 # Словарь терминов по курсу «Python-разработчик с нуля»
 > Для поиска конкретного термина рекомендуем использовать сочетание клавиш Ctrl+F.  
 
-| А | Б | В | А | Б | В | 
+| [А](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D0%B0) | [Б](https://github.com/netology-code/guides/blob/master/python/dictionary.md#%D0%B1) | В | Г | Д | Е | 
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|    
 
 ## Термины A-Z
