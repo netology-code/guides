@@ -1,7 +1,10 @@
 # Словарь терминов по курсу «Python-разработчик с нуля»
 > Для поиска конкретного термина рекомендуем использовать сочетание клавиш Ctrl+F.  
 
+| Heading 1 | Heading 2 | Heading 3 |  
+|-----------|:-----------:|-----------:|  
 | Cell A1 | Cell A2 | Cell A3 |  
+| Cell B1 | Cell B2 | Cell B3<br>second line of text |   
 ## Термины A-Z
 |A|B||C|D|E|F|G|H|I|J|K|L|M|N|O|[P](https://github.com/netology-code/guides/blob/master/python/dictionary.md#p)|Q|[R](https://github.com/netology-code/guides/blob/master/python/dictionary.md#r)|S|T|U|V|W|X|Y|Z|  
 ## Термины А-Я
