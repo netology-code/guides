@@ -7,4 +7,4 @@
 # R
 ## Repl
 это песочница(онлайн-интерпретатор) в веб-сервисе Repl.it. 
-<center>Centered text</center>
+<p align="center">р</p>
