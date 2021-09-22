@@ -1,6 +1,6 @@
 # Список профессии
 
-<details><summary>PB тест</summary>
+<details><summary>Нетол</summary>
 
    + [Параграфы и разрывы строк](#Parag);
 
