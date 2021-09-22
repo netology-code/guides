@@ -1,6 +1,6 @@
 # Список профессии
 
-<details><h1><summary>
+<details><summary><h1>
    FE Frontend-разработчик</summary></h1>
 <details><summary>HTML (Верстка)</summary>
 
