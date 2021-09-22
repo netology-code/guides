@@ -13,6 +13,7 @@
    + [MQ-Materials](https://github.com/netology-code/mq-materials)
    + [MQ-Homeworks](https://github.com/netology-code/mq-homeworks)
    + [MQ-Diploma](https://github.com/netology-code/mq-diploma)
+   + [MQ-Diploma-Old](https://github.com/netology-code/mq-diploma-old)
   
 </details>
 <details><summary>PB (Основы программирования)</summary>
