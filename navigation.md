@@ -3,16 +3,16 @@
 ## FE Frontend-разработчик
 <details><summary>HTML (Верстка)</summary>
 
-   + [html-homeworks](https://github.com/netology-code/html-homeworks)
-   + [html-2-homeworks](https://github.com/netology-code/html-2-homeworks)
-   + [html-2-diploma](https://github.com/netology-code/html-2-diploma)
+   + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
+   + [HTML-2-Homeworks](https://github.com/netology-code/html-2-homeworks)
+   + [HTML-2-Diploma](https://github.com/netology-code/html-2-diploma)
   
 </details>
 <details><summary>MQ (Мобильная и адаптивная верстка)</summary>
 
-   + [mq-materials](https://github.com/netology-code/mq-materials)
-   + [mq-homeworks](https://github.com/netology-code/mq-homeworks)
-   + [mq-diploma](https://github.com/netology-code/mq-diploma)
+   + [MQ-Materials](https://github.com/netology-code/mq-materials)
+   + [MQ-Homeworks](https://github.com/netology-code/mq-homeworks)
+   + [MQ-Diploma](https://github.com/netology-code/mq-diploma)
   
 </details>
 <details><summary>PB (Основы программирования)</summary>
