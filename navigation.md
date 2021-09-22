@@ -1,7 +1,7 @@
 # Список профессии
 
-<details><summary><h1>
-   FE Frontend-разработчик</summary></h1>
+<details><summary><h3>
+   FE Frontend-разработчик</summary></h3>
 <details><summary>HTML (Верстка)</summary>
 
    + [html-homeworks](https://github.com/netology-code/html-homeworks)
