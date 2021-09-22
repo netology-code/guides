@@ -18,16 +18,16 @@
 </details>
 <details><summary>PB (Основы программирования)</summary>
 
-   + []()
-   + []()
-   + []()
-   + []()
+   + [PB-Materials](https://github.com/netology-code/pb-materials)
+   + [PB-2-Materials](https://github.com/netology-code/pb-2-materials)
+   + [PB-Homeworks](https://github.com/netology-code/pb-homeworks)
+   + [PB-Diplom](https://github.com/netology-code/pb-diplom)
 
 </details>
 <details><summary>GIT</summary>
 
-   + []()
-   + []()
+   + [Git-Materials](https://github.com/netology-code/git-materials)
+   + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
    + []()
 
 </details>
