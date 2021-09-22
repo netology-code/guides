@@ -24,6 +24,48 @@
    + []()
 
 </details>
+<details><summary>GIT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BJS (Основы JavaScript)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BHJ (Основы JS в браузере)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AJS (JavaScript продвинутый)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AHJ (JavaScript в браузере продвинутый)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>RA (Библиотека React)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
 
 ## FS Веб-разработчик
 <details><summary>BPHP (Основы PHP)</summary>
