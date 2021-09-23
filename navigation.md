@@ -28,19 +28,19 @@
 
    + [Git-Materials](https://github.com/netology-code/git-materials)
    + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
-   + []()
 
 </details>
 <details><summary>BJS (Основы JavaScript)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [BJS-Materials](https://github.com/netology-code/bjs-materials)
+   + [BJS-Homeworks](https://github.com/netology-code/bjs-homeworks)
+   + [BJS-2-Homeworks](https://github.com/netology-code/bjs-2-homeworks)
+   + [BJS-Diplom](https://github.com/netology-code/bjs-diplom)
 
 </details>
 <details><summary>BHJ (Основы JS в браузере)</summary>
 
-   + []()
+   + [bhj-materials](https://github.com/netology-code/bhj-materials)
    + []()
    + []()
 
@@ -73,4 +73,55 @@
    + [html-homeworks](https://github.com/netology-code/html-homeworks)
    + [html-2-homeworks](https://github.com/netology-code/html-2-homeworks)
   
+</details>
+
+## PD Python-разработчик 
+<details><summary>PY (Python 1 уровень)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>GIT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>SQLPY (базы данных)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>ADPY (Python продвинутый)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>DJ (Фреймворк Django)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>WEBPY (Python в вебразработке)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
 </details>
