@@ -91,6 +91,7 @@
 
 </details>
 
+
 ## FS Веб-разработчик
 <details><summary>HTML (Верстка)</summary>
 
@@ -203,6 +204,7 @@
 
 </details>
 
+
 ## PD Python-разработчик 
 <details><summary>PY (Python 1 уровень)</summary>
 
@@ -267,6 +269,7 @@
 
 </details>
 
+
 ## AN Android-разработчик
 <details><summary>JAVA (Основы Java)</summary>
 
@@ -317,6 +320,7 @@
 
 </details>
 
+
 ##  QA Тестировщик
 <details><summary>IQA (Введение в тестирование)</summary>
 
@@ -358,6 +362,7 @@
    + [qa-materials](https://github.com/netology-code/qa-materials)
 
 </details>
+
 
 ## IOS iOS-разработчик
 <details><summary>BIOS (Введение в Swift)</summary>
@@ -416,6 +421,7 @@
    + []()
 
 </details>
+
 
 ##  ONEC 1C-разработчик
 <details><summary>SRK (Среда разработки и конфигурация)</summary>
@@ -496,6 +502,7 @@
 
 </details>
 
+
 ## JD Java-разработчик
 <details><summary>JAVA (Основы Java)</summary>
 
@@ -561,6 +568,7 @@
 
 </details>
 
+
 ## DEVOPS Devops-инженер
 <details><summary>DEVSYS - DevOps и системное администрирование</summary>
 
@@ -604,6 +612,7 @@
    + []()
 
 </details>
+
 
 ## SIB Специалист информационной безопасности
 <details><summary>IBB - Основы информационной безопасности</summary>
@@ -669,6 +678,7 @@
    + []()
 
 </details>
+
 
 ## SYS Системный администратор
 <details><summary>IQA</summary>
@@ -748,6 +758,7 @@
    + []()
 
 </details>
+
 
 ## FPY Fullstack-разработчик на Python
 <details><summary>PY</summary>
@@ -842,6 +853,7 @@
 
 </details>
 
+
 ## FJS Fullstack JavaScript-разработчик
 <details><summary>HTML (Верстка)</summary>
 
@@ -921,6 +933,7 @@
 
 </details>
 
+
 ## BTRX (Bitrix-разработчик)
 <details><summary>HTML (Верстка)</summary>
 
@@ -985,6 +998,7 @@
    + []()
 
 </details>
+
 
 ## NTW (Сетевой инженер)
 <details><summary>BNTW - Введение в сетевые технологии</summary>
@@ -1064,6 +1078,7 @@
    + []()
 
 </details>
+
 
 ## GOL Golang-разработчик (закрыт)
 <details><summary>HTML (Верстка)</summary>
