@@ -488,3 +488,521 @@
    + []()
 
 </details>
+
+## SIB Специалист информационной безопасности
+<details><summary>IBB - Основы информационной безопасности</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IBNET - Сети передачи данных и безопасность</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IBOS - Безопасность операционных систем и современная разработка</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IBDEV - Современная разработка ПО</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IBWEB - Веб-приложения</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IBDEF - Аttack & Defence</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IBMOD - Современная киберпреступность и методы противодействия</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IBINC - Реагирование на инциденты ИБ и проактивный поиск угроз</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+
+## SYS Системный администратор
+<details><summary>IQA</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>GIT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>JAVAQA</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AQA</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AQABJS</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>JSQA</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>JSAQA</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>MQA</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>LOADQA</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IBQA</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+
+## FPY Fullstack-разработчик на Python
+<details><summary>PY</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>GIT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>SQLPY</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>ADPY</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>DJ</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>HTML</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>FPYMQ</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>FPYJS</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BHJ</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AJS</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AHJ</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>RA</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+
+## FJS Fullstack JavaScript-разработчик
+<details><summary>HTML (Верстка)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>MQ (Мобильная и адаптивная верстка)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>PB (Основы программирования)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>GIT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BJS (Основы JavaScript)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BHJ (Основы JS в браузере)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AJS (JavaScript продвинутый)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>RA (Библиотека React)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>NDSE - Настройка окружения и Express.js</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>NDTNF - Typescript, Nest.js, Firebase</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+## BTRX (Bitrix-разработчик)
+<details><summary>HTML (Верстка)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>PB (Основы программирования)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>GIT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BPHP (Основы PHP)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BWEB</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BPATT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BCONT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BBAY</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+
+## NTW (Сетевой инженер)
+<details><summary>BNTW - Введение в сетевые технологии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>RUTSW - Основы коммутации и маршрутизации</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>RSNT - Построение отказоустойчивых сетей</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>DRUT - Динамическая маршрутизация</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>SECNT - Сетевая безопасность</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>WFNT - Беспроводные сети</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>QOS - Методы обеспечения качества обслуживания</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>CRPNT - Основы проектирования корпоративных сетей</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>OPTNT - Инструменты эксплуатации</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IPNT - Основы IP-телефонии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+## GOL Golang-разработчик (закрыт)
+<details><summary>HTML (Верстка)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>PB (Основы программирования)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>GIT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BGO (основы golang)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AGO (продвинутый golang)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AJS (JavaScript продвинутый)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>RA (Библиотека React)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+
+
