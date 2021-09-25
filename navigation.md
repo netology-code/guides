@@ -804,6 +804,7 @@
    + []()
 
 </details>
+
 ## BTRX (Bitrix-разработчик)
 <details><summary>HTML (Верстка)</summary>
 
@@ -947,6 +948,7 @@
    + []()
 
 </details>
+
 ## GOL Golang-разработчик (закрыт)
 <details><summary>HTML (Верстка)</summary>
 
