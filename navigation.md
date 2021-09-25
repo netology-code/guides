@@ -388,37 +388,35 @@
 <details><summary>IOSUI (Разработка iOS-приложений — интерфейс пользователя)
 </summary>
 
-   + []()
-   + []()
-   + []()
+   + [iosui-homeworks](https://github.com/netology-code/iosui-homeworks)
+   + [iosui-diplom](https://github.com/netology-code/iosui-diplom)
+   + [iosui-code](https://github.com/netology-code/iosui-code)
 
 </details>
 <details><summary>IOSINT (Промышленная разработка)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [iosint-code](https://github.com/netology-code/iosint-code)
+   + [iosint-homeworks](https://github.com/netology-code/iosint-homeworks)
+   + [IOSINT-image-processor](https://github.com/netology-code/IOSINT-image-processor)
 
 </details>
 <details><summary>IOSDT (Работа с сетью и хранение данных)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [iosdt-diplom](https://github.com/netology-code/iosdt-diplom)
+   + [iosdt-homeworks](https://github.com/netology-code/iosdt-homeworks)
+   + [iosdt-code](https://github.com/netology-code/iosdt-code)
 
 </details>
 <details><summary>IOSADV (Продвинутая iOS-разработка)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [iosadv-homeworks](https://github.com/netology-code/iosadv-homeworks)
+   + [iosadv-code](https://github.com/netology-code/iosadv-code)
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ios-diplom](https://github.com/netology-code/ios-diplom)
+   + [ios-1-diplom](https://github.com/netology-code/ios-1-diplom)
 
 </details>
 <br>
@@ -427,77 +425,55 @@
 <details><summary>SRK (Среда разработки и конфигурация)</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>VY (Встроенный язык)</summary>
 
    + []()
-   + []()
-   + []()
-
+   
 </details>
 <details><summary>INF (Интерфейс)</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>SRS (Справочники и регистры сведений)</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>YZD (Документы и файлы)</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>RNFD (Запросы и отчёты)</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>IND (Интеграция, обмен данными)</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>MA Механизмы учета</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>PV Механизмы расчета</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>BPZ Бизнес-процессы и задачи</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
@@ -506,64 +482,49 @@
 ## JD Java-разработчик
 <details><summary>JAVA (Основы Java)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [java-homeworks](https://github.com/netology-code/java-homeworks)
+   + [java-materials](https://github.com/netology-code/java-materials)
 
 </details>
-<details><summary>Git</summary>
+<details><summary>GIT</summary>
 
-   + []()
-   + []()
-   + []()
+   + [Git-Materials](https://github.com/netology-code/git-materials)
+   + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
 <details><summary>JAVACORE - Java Core</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>JPAT - Шаблоны проектирования</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>JADV - Многопоточное и функциональное программирование</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>JSPR - Web, Spring & Spring MVC</summary>
 
-   + []()
-   + []()
-   + []()
+   + [jspr-homeworks](https://github.com/netology-code/jspr-homeworks)
+   + [jspr-code](https://github.com/netology-code/jspr-code)
 
 </details>
 <details><summary>JCLO - Spring Boot, deployment и инфраструктура</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>JDATA - Хранение данных и организация безопасности</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
@@ -573,43 +534,32 @@
 <details><summary>DEVSYS - DevOps и системное администрирование</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>VIRT - Виртуализация, базы данных и Terraform</summary>
 
-   + []()
-   + []()
-   + []()
+   + [virt-homeworks](https://github.com/netology-code/virt-homeworks)
 
 </details>
 <details><summary>MNT - Мониторинг, управление конфигурациями, Terraform</summary>
 
-   + []()
-   + []()
-   + []()
+   + [mnt-homeworks](https://github.com/netology-code/mnt-homeworks)
+   + [mnt-homeworks-ansible](https://github.com/netology-code/mnt-homeworks-ansible)
 
 </details>
 <details><summary>DevKub - Администрирование и конфигурация Kubernetes</summary>
 
-   + []()
-   + []()
-   + []()
+   + [devkub-homeworks](https://github.com/netology-code/devkub-homeworks)
 
 </details>
 <details><summary>CLOKUB - Kubernetes и облачные сервисы</summary>
 
-   + []()
-   + []()
-   + []()
+   + [clokub-homeworks](https://github.com/netology-code/clokub-homeworks)
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
-   + []()
+   + [devops-diplom](https://github.com/netology-code/devops-diplom)
 
 </details>
 <br>
@@ -617,65 +567,57 @@
 ## SIB Специалист информационной безопасности
 <details><summary>IBB - Основы информационной безопасности</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ibb-homeworks](https://github.com/netology-code/ibb-homeworks)
 
 </details>
 <details><summary>IBNET - Сети передачи данных и безопасность</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ibnet-homeworks](https://github.com/netology-code/ibnet-homeworks)
 
 </details>
 <details><summary>IBOS - Безопасность операционных систем и современная разработка</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ibos-homeworks](https://github.com/netology-code/ibos-homeworks)
+   + [ibos-code](https://github.com/netology-code/ibos-code)
 
 </details>
 <details><summary>IBDEV - Современная разработка ПО</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ibdev-homeworks](https://github.com/netology-code/ibdev-homeworks)
+   + [ibdev-code](https://github.com/netology-code/ibdev-code)
 
 </details>
 <details><summary>IBWEB - Веб-приложения</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ibweb-homeworks](https://github.com/netology-code/ibweb-homeworks)
+   + [ibweb-code](https://github.com/netology-code/ibweb-code)
 
 </details>
 <details><summary>IBDEF - Аttack & Defence</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ibdef-homeworks](https://github.com/netology-code/ibdef-homeworks)
+   + [ibdef-code](https://github.com/netology-code/ibdef-code)
 
 </details>
 <details><summary>IBMOD - Современная киберпреступность и методы противодействия</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>IBINC - Реагирование на инциденты ИБ и проактивный поиск угроз</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
-   + []()
+   + [sib-diplom-close](https://github.com/netology-code/sib-diplom-close)
+   + [sib-Diplom-Track-Forensics](https://github.com/netology-code/sib-Diplom-Track-Forensics)
+   + [sib-Diplom-Track-DevSecOps](https://github.com/netology-code/sib-Diplom-Track-DevSecOps)
+   + [sib-Diplom-Track-Penetration-Testing](https://github.com/netology-code/sib-Diplom-Track-Penetration-Testing)
+   + [sib-ecommerce-diploma](https://github.com/netology-code/sib-ecommerce-diploma)
+   + [sib-secure-kontur-diploma](https://github.com/netology-code/sib-secure-kontur-diploma)
+   + [sib-incident-diploma](https://github.com/netology-code/sib-incident-diploma)
 
 </details>
 <br>
@@ -683,30 +625,34 @@
 ## SYS Системный администратор
 <details><summary>IQA</summary>
 
-   + []()
-   + []()
-   + []()
+   + [iqa-homeworks](https://github.com/netology-code/iqa-homeworks)
+   + [iqa-materials](https://github.com/netology-code/iqa-materials)
+   + [iqa-diplom](https://github.com/netology-code/iqa-diplom)
+   + [iqa-2-homeworks](https://github.com/netology-code/iqa-2-homeworks)
 
 </details>
 <details><summary>GIT</summary>
 
-   + []()
-   + []()
-   + []()
+   + [Git-Materials](https://github.com/netology-code/git-materials)
+   + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
 <details><summary>JAVAQA</summary>
 
-   + []()
-   + []()
-   + []()
+   + [javaqa-homeworks](https://github.com/netology-code/javaqa-homeworks)
+   + [javaqa-code](https://github.com/netology-code/javaqa-code)
+   + [javaqa-materials](https://github.com/netology-code/javaqa-materials)
+   + [javaqa-diploma](https://github.com/netology-code/javaqa-diploma)
 
 </details>
 <details><summary>AQA</summary>
 
-   + []()
-   + []()
-   + []()
+   + [aqa-homeworks](https://github.com/netology-code/aqa-homeworks)
+   + [aqa-qamid-diplom](https://github.com/netology-code/aqa-qamid-diplom)
+   + [aqa-code](https://github.com/netology-code/aqa-code)
+   + [aqa-materials](https://github.com/netology-code/aqa-materials)
+   + [aqa-bonuses](https://github.com/netology-code/aqa-bonuses)
+   + [aqa-hw-sample](https://github.com/netology-code/aqa-hw-sample)
 
 </details>
 <details><summary>AQABJS</summary>
@@ -770,9 +716,8 @@
 </details>
 <details><summary>GIT</summary>
 
-   + []()
-   + []()
-   + []()
+   + [Git-Materials](https://github.com/netology-code/git-materials)
+   + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
 <details><summary>SQLPY</summary>
@@ -798,10 +743,11 @@
 </details>
 <details><summary>HTML</summary>
 
-   + []()
-   + []()
-   + []()
-
+   + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
+   + [HTML-2-Homeworks](https://github.com/netology-code/html-2-homeworks)
+   + [HTML-2-Diploma](https://github.com/netology-code/html-2-diploma)
+   + [html-2-materials](https://github.com/netology-code/html-2-materials)
+  
 </details>
 <details><summary>FPYMQ</summary>
 
@@ -857,30 +803,32 @@
 ## FJS Fullstack JavaScript-разработчик
 <details><summary>HTML (Верстка)</summary>
 
-   + []()
-   + []()
-   + []()
-
+   + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
+   + [HTML-2-Homeworks](https://github.com/netology-code/html-2-homeworks)
+   + [HTML-2-Diploma](https://github.com/netology-code/html-2-diploma)
+   + [html-2-materials](https://github.com/netology-code/html-2-materials)
+  
 </details>
 <details><summary>MQ (Мобильная и адаптивная верстка)</summary>
 
-   + []()
-   + []()
-   + []()
-
+   + [MQ-Materials](https://github.com/netology-code/mq-materials)
+   + [MQ-Homeworks](https://github.com/netology-code/mq-homeworks)
+   + [MQ-Diploma](https://github.com/netology-code/mq-diploma)
+   + [MQ-Diploma-Old](https://github.com/netology-code/mq-diploma-old)
+  
 </details>
 <details><summary>PB (Основы программирования)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [PB-Materials](https://github.com/netology-code/pb-materials)
+   + [PB-2-Materials](https://github.com/netology-code/pb-2-materials)
+   + [PB-Homeworks](https://github.com/netology-code/pb-homeworks)
+   + [PB-Diplom](https://github.com/netology-code/pb-diplom)
 
 </details>
 <details><summary>GIT</summary>
 
-   + []()
-   + []()
-   + []()
+   + [Git-Materials](https://github.com/netology-code/git-materials)
+   + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
 <details><summary>BJS (Основы JavaScript)</summary>
@@ -937,23 +885,24 @@
 ## BTRX (Bitrix-разработчик)
 <details><summary>HTML (Верстка)</summary>
 
-   + []()
-   + []()
-   + []()
-
+   + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
+   + [HTML-2-Homeworks](https://github.com/netology-code/html-2-homeworks)
+   + [HTML-2-Diploma](https://github.com/netology-code/html-2-diploma)
+   + [html-2-materials](https://github.com/netology-code/html-2-materials)
+  
 </details>
 <details><summary>PB (Основы программирования)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [PB-Materials](https://github.com/netology-code/pb-materials)
+   + [PB-2-Materials](https://github.com/netology-code/pb-2-materials)
+   + [PB-Homeworks](https://github.com/netology-code/pb-homeworks)
+   + [PB-Diplom](https://github.com/netology-code/pb-diplom)
 
 </details>
 <details><summary>GIT</summary>
 
-   + []()
-   + []()
-   + []()
+   + [Git-Materials](https://github.com/netology-code/git-materials)
+   + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
 <details><summary>BPHP (Основы PHP)</summary>
@@ -1083,23 +1032,24 @@
 ## GOL Golang-разработчик (закрыт)
 <details><summary>HTML (Верстка)</summary>
 
-   + []()
-   + []()
-   + []()
-
+   + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
+   + [HTML-2-Homeworks](https://github.com/netology-code/html-2-homeworks)
+   + [HTML-2-Diploma](https://github.com/netology-code/html-2-diploma)
+   + [html-2-materials](https://github.com/netology-code/html-2-materials)
+  
 </details>
 <details><summary>PB (Основы программирования)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [PB-Materials](https://github.com/netology-code/pb-materials)
+   + [PB-2-Materials](https://github.com/netology-code/pb-2-materials)
+   + [PB-Homeworks](https://github.com/netology-code/pb-homeworks)
+   + [PB-Diplom](https://github.com/netology-code/pb-diplom)
 
 </details>
 <details><summary>GIT</summary>
 
-   + []()
-   + []()
-   + []()
+   + [Git-Materials](https://github.com/netology-code/git-materials)
+   + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
 <details><summary>BGO (основы golang)</summary>
