@@ -66,6 +66,13 @@
    + []()
 
 </details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
 
 ## FS Веб-разработчик
 <details><summary>BPHP (Основы PHP)</summary>
@@ -73,6 +80,27 @@
    + [html-homeworks](https://github.com/netology-code/html-homeworks)
    + [html-2-homeworks](https://github.com/netology-code/html-2-homeworks)
   
+</details
+<details><summary>APHP (Продвинутый PHP)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>LRV (Laravel)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
 </details>
 
 ## PD Python-разработчик 
@@ -112,6 +140,153 @@
 
 </details>
 <details><summary>WEBPY (Python в вебразработке)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+
+## AN Android-разработчик
+<details><summary>JAVA (Основы Java)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>GIT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>KT (Введение в Kotlin)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AND (Введение в Android)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>ANDIN (Промышленная разработка на Android)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>ANDAD (Продвинутый Android)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+
+##  QA Тестировщик
+<details><summary>IQA (Введение в тестирование)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>GIT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>JAVAQA (Java для тестировщиков)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AQA (Автоматизация тестирования)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+
+## IOS iOS-разработчик
+<details><summary>BIOS (Введение в Swift)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>GIT</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>AIOS (Объектно-ориентированное программирование на Swift)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IOSUI (Разработка iOS-приложений — интерфейс пользователя)
+</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IOSINT (Промышленная разработка)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IOSDT (Работа с сетью и хранение данных)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IOSADV (Продвинутая iOS-разработка)</summary>
 
    + []()
    + []()
