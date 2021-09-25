@@ -316,3 +316,175 @@
    + []()
 
 </details>
+<details><summary>INF (Интерфейс)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>SRS (Справочники и регистры сведений)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>YZD (Документы и файлы)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>RNFD (Запросы и отчёты)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>IND (Интеграция, обмен данными)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>MA Механизмы учета</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>PV Механизмы расчета</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>BPZ Бизнес-процессы и задачи</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+
+## JD Java-разработчик
+<details><summary>JAVA (Основы Java)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Git</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>JAVACORE - Java Core</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>JPAT - Шаблоны проектирования</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>JADV - Многопоточное и функциональное программирование</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>JSPR - Web, Spring & Spring MVC</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>JCLO - Spring Boot, deployment и инфраструктура</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>JDATA - Хранение данных и организация безопасности</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+
+## DEVOPS Devops-инженер
+<details><summary>DEVSYS - DevOps и системное администрирование</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>VIRT - Виртуализация, базы данных и Terraform</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>MNT - Мониторинг, управление конфигурациями, Terraform</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>DevKub - Администрирование и конфигурация Kubernetes</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>CLOKUB - Kubernetes и облачные сервисы</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
