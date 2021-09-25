@@ -90,7 +90,7 @@
    + [fe-diplom-trainbooking](https://github.com/netology-code/fe-diplom-trainbooking)
 
 </details>
-
+<br>
 
 ## FS Веб-разработчик
 <details><summary>HTML (Верстка)</summary>
