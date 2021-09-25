@@ -300,3 +300,19 @@
    + []()
 
 </details>
+
+##  ONEC 1C-разработчик
+<details><summary>SRK (Среда разработки и конфигурация)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>VY (Встроенный язык)</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
