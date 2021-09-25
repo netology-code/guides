@@ -203,7 +203,7 @@
    + [fs-diplom](https://github.com/netology-code/fs-diplom)
 
 </details>
-
+<br>
 
 ## PD Python-разработчик 
 <details><summary>PY (Python 1 уровень)</summary>
@@ -268,7 +268,7 @@
    + [pd-diplom](https://github.com/netology-code/pd-diplom)
 
 </details>
-
+<br>
 
 ## AN Android-разработчик
 <details><summary>JAVA (Основы Java)</summary>
@@ -319,7 +319,7 @@
    + []()
 
 </details>
-
+<br>
 
 ##  QA Тестировщик
 <details><summary>IQA (Введение в тестирование)</summary>
@@ -362,7 +362,7 @@
    + [qa-materials](https://github.com/netology-code/qa-materials)
 
 </details>
-
+<br>
 
 ## IOS iOS-разработчик
 <details><summary>BIOS (Введение в Swift)</summary>
@@ -421,7 +421,7 @@
    + []()
 
 </details>
-
+<br>
 
 ##  ONEC 1C-разработчик
 <details><summary>SRK (Среда разработки и конфигурация)</summary>
@@ -501,7 +501,7 @@
    + []()
 
 </details>
-
+<br>
 
 ## JD Java-разработчик
 <details><summary>JAVA (Основы Java)</summary>
@@ -567,7 +567,7 @@
    + []()
 
 </details>
-
+<br>
 
 ## DEVOPS Devops-инженер
 <details><summary>DEVSYS - DevOps и системное администрирование</summary>
@@ -612,7 +612,7 @@
    + []()
 
 </details>
-
+<br>
 
 ## SIB Специалист информационной безопасности
 <details><summary>IBB - Основы информационной безопасности</summary>
@@ -678,7 +678,7 @@
    + []()
 
 </details>
-
+<br>
 
 ## SYS Системный администратор
 <details><summary>IQA</summary>
@@ -758,7 +758,7 @@
    + []()
 
 </details>
-
+<br>
 
 ## FPY Fullstack-разработчик на Python
 <details><summary>PY</summary>
@@ -852,7 +852,7 @@
    + []()
 
 </details>
-
+<br>
 
 ## FJS Fullstack JavaScript-разработчик
 <details><summary>HTML (Верстка)</summary>
@@ -932,7 +932,7 @@
    + []()
 
 </details>
-
+<br>
 
 ## BTRX (Bitrix-разработчик)
 <details><summary>HTML (Верстка)</summary>
@@ -998,7 +998,7 @@
    + []()
 
 </details>
-
+<br>
 
 ## NTW (Сетевой инженер)
 <details><summary>BNTW - Введение в сетевые технологии</summary>
@@ -1078,7 +1078,7 @@
    + []()
 
 </details>
-
+<br>
 
 ## GOL Golang-разработчик (закрыт)
 <details><summary>HTML (Верстка)</summary>
