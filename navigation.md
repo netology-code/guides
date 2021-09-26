@@ -185,7 +185,7 @@
    + [bphp-homeworks](https://github.com/netology-code/bphp-homeworks)
    + [bphp-materials](https://github.com/netology-code/bphp-materials)
   
-</details
+</details>
 <details><summary>APHP (Продвинутый PHP)</summary>
 
    + [aphp-homeworks](https://github.com/netology-code/aphp-homeworks)
