@@ -208,23 +208,19 @@
 ## PD Python-разработчик 
 <details><summary>PY (Python 1 уровень)</summary>
 
-   + [py-homeworks-web](https://github.com/netology-code/py-homeworks-web)
    + [py-homeworks-basic](https://github.com/netology-code/py-homeworks-basic)
-   + [python-final-diplom](https://github.com/netology-code/python-final-diplom)
    + [py-homework-basic](https://github.com/netology-code/py-homework-basic)
-   + [py-advanced-diplom](https://github.com/netology-code/py-advanced-diplom)
    + [py-homework-basic-files](https://github.com/netology-code/py-homework-basic-files)
-   + [pyfree-homeworks](https://github.com/netology-code/pyfree-homeworks)
-   + [py-homeworks-advanced](https://github.com/netology-code/py-homeworks-advanced)
-   + [py-homeworks-db](https://github.com/netology-code/py-homeworks-db)
    + [py-diplom-basic](https://github.com/netology-code/py-diplom-basic)
-   + [py-homework-advanced](https://github.com/netology-code/py-homework-advanced)
+   + [pyfree-homeworks](https://github.com/netology-code/pyfree-homeworks)
+   + [py-homeworks-db](https://github.com/netology-code/py-homeworks-db)
    + [py-diplom](https://github.com/netology-code/py-diplom)
    + [py-homeworks](https://github.com/netology-code/py-homeworks)
    + [py-homeworks-new-old](https://github.com/netology-code/py-homeworks-new-old)
    + [py-materials](https://github.com/netology-code/py-materials)
    + [Python_course](https://github.com/netology-code/Python_course)
    + [pythoncourse](https://github.com/netology-code/pythoncourse)
+   + [python-final-diplom](https://github.com/netology-code/python-final-diplom)
 
 </details>
 <details><summary>GIT</summary>
@@ -236,15 +232,12 @@
 <details><summary>SQLPY (базы данных)</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>ADPY (Python продвинутый)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [py-advanced-diplom](https://github.com/netology-code/py-advanced-diplom)
+   + [py-homeworks-advanced](https://github.com/netology-code/py-homeworks-advanced)
 
 </details>
 <details><summary>DJ (Фреймворк Django)</summary>
@@ -258,9 +251,7 @@
 </details>
 <details><summary>WEBPY (Python в вебразработке)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [py-homeworks-web](https://github.com/netology-code/py-homeworks-web)
 
 </details>
 <details><summary>Диплом профессии</summary>
@@ -421,8 +412,7 @@
 </details>
 <br>
 
-##  ONEC 1C-разработчик
--
+
 <details><summary>SRK (Среда разработки и конфигурация)</summary>
 
    + []()
