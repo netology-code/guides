@@ -657,51 +657,40 @@
 </details>
 <details><summary>AQABJS</summary>
 
-   + []()
-   + []()
-   + []()
+   + [aqabjs-homeworks](https://github.com/netology-code/aqabjs-homeworks)
 
 </details>
 <details><summary>JSQA</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>JSAQA</summary>
 
-   + []()
-   + []()
-   + []()
+   + [javaqa-homeworks](https://github.com/netology-code/javaqa-homeworks)
+   + [javaqa-code](https://github.com/netology-code/javaqa-code)
+   + [javaqa-materials](https://github.com/netology-code/javaqa-materials)
+   + [javaqa-diploma](https://github.com/netology-code/javaqa-diploma)
 
 </details>
 <details><summary>MQA</summary>
 
-   + []()
-   + []()
-   + []()
+   + [mqa-homeworks](https://github.com/netology-code/mqa-homeworks)
 
 </details>
 <details><summary>LOADQA</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>IBQA</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
-   + []()
+   + [sys-diplom](https://github.com/netology-code/sys-diplom)
 
 </details>
 <br>
@@ -709,7 +698,7 @@
 ## FPY Fullstack-разработчик на Python
 <details><summary>PY</summary>
 
-   + []()
+   + []()---------------------------------------------------
    + []()
    + []()
 
@@ -723,22 +712,20 @@
 <details><summary>SQLPY</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>ADPY</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>DJ</summary>
 
-   + []()
-   + []()
-   + []()
+   + [dj-homeworks](https://github.com/netology-code/dj-homeworks)
+   + [DJ_code](https://github.com/netology-code/DJ_code)
+   + [dj-diplom](https://github.com/netology-code/dj-diplom)
+   + [dj-materials](https://github.com/netology-code/dj-materials)
+   + [django-graduate-work](https://github.com/netology-code/django-graduate-work)
 
 </details>
 <details><summary>HTML</summary>
@@ -752,49 +739,59 @@
 <details><summary>FPYMQ</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>FPYJS</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>BHJ</summary>
 
-   + []()
-   + []()
-   + []()
+   + [bhj-materials](https://github.com/netology-code/bhj-materials)
+   + [bhj-homeworks](https://github.com/netology-code/bhj-homeworks)
+   + [bhj-diploma](https://github.com/netology-code/bhj-diploma)
+   + [bhj-diploma-backend](https://github.com/netology-code/bhj-diploma-backend)
 
 </details>
 <details><summary>AJS</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ajs-materials](https://github.com/netology-code/ajs-materials)
+   + [ajs-homeworks](https://github.com/netology-code/ajs-homeworks)
+   + [ajs-diploma](https://github.com/netology-code/ajs-diploma)
+   + [ajs-code](https://github.com/netology-code/ajs-code)
+   + [ajs-task](https://github.com/netology-code/ajs-task)
+   + [ajs-templates](https://github.com/netology-code/ajs-templates)
+   + [ajs-platforms](https://github.com/netology-code/ajs-platforms)
+   + [ajs](https://github.com/netology-code/ajs)
 
 </details>
 <details><summary>AHJ</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ahj_code](https://github.com/netology-code/ahj_code)
+   + [ahj-materials](https://github.com/netology-code/ahj-materials)
+   + [ahj-templates](https://github.com/netology-code/ahj-templates)
+   + [ahj-homeworks](https://github.com/netology-code/ahj-homeworks)
+   + [ahj-code](https://github.com/netology-code/ahj-code)
+   + [ahj-diploma](https://github.com/netology-code/ahj-diploma)
 
 </details>
 <details><summary>RA</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ra16-homeworks](https://github.com/netology-code/ra16-homeworks)
+   + [ra16-materials](https://github.com/netology-code/ra16-materials)
+   + [ra-materials](https://github.com/netology-code/ra-materials)
+   + [ra16-code](https://github.com/netology-code/ra16-code)
+   + [ra16-templates](https://github.com/netology-code/ra16-templates)
+   + [ra16-diploma](https://github.com/netology-code/ra16-diploma)
+   + [ra-16-810411](https://github.com/netology-code/ra-16-810411)
+   + [ra-17-rodionov217](https://github.com/netology-code/ra-17-rodionov217)
+   + [ra-17-KonstantinKliukach](https://github.com/netology-code/ra-17-KonstantinKliukach)
+   + [ra-18-pavellevchuk](https://github.com/netology-code/ra-18-pavellevchuk)
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
@@ -833,50 +830,62 @@
 </details>
 <details><summary>BJS (Основы JavaScript)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [BJS-Materials](https://github.com/netology-code/bjs-materials)
+   + [BJS-Homeworks](https://github.com/netology-code/bjs-homeworks)
+   + [BJS-2-Homeworks](https://github.com/netology-code/bjs-2-homeworks)
+   + [BJS-Diplom](https://github.com/netology-code/bjs-diplom)
+   + [bjs-3-code](https://github.com/netology-code/bjs-3-code)
 
 </details>
 <details><summary>BHJ (Основы JS в браузере)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [bhj-materials](https://github.com/netology-code/bhj-materials)
+   + [bhj-homeworks](https://github.com/netology-code/bhj-homeworks)
+   + [bhj-diploma](https://github.com/netology-code/bhj-diploma)
+   + [bhj-diploma-backend](https://github.com/netology-code/bhj-diploma-backend)
 
 </details>
 <details><summary>AJS (JavaScript продвинутый)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ajs-materials](https://github.com/netology-code/ajs-materials)
+   + [ajs-homeworks](https://github.com/netology-code/ajs-homeworks)
+   + [ajs-diploma](https://github.com/netology-code/ajs-diploma)
+   + [ajs-code](https://github.com/netology-code/ajs-code)
+   + [ajs-task](https://github.com/netology-code/ajs-task)
+   + [ajs-templates](https://github.com/netology-code/ajs-templates)
+   + [ajs-platforms](https://github.com/netology-code/ajs-platforms)
+   + [ajs](https://github.com/netology-code/ajs)
 
 </details>
 <details><summary>RA (Библиотека React)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ra16-homeworks](https://github.com/netology-code/ra16-homeworks)
+   + [ra16-materials](https://github.com/netology-code/ra16-materials)
+   + [ra-materials](https://github.com/netology-code/ra-materials)
+   + [ra16-code](https://github.com/netology-code/ra16-code)
+   + [ra16-templates](https://github.com/netology-code/ra16-templates)
+   + [ra16-diploma](https://github.com/netology-code/ra16-diploma)
+   + [ra-16-810411](https://github.com/netology-code/ra-16-810411)
+   + [ra-17-rodionov217](https://github.com/netology-code/ra-17-rodionov217)
+   + [ra-17-KonstantinKliukach](https://github.com/netology-code/ra-17-KonstantinKliukach)
+   + [ra-18-pavellevchuk](https://github.com/netology-code/ra-18-pavellevchuk)
 
 </details>
 <details><summary>NDSE - Настройка окружения и Express.js</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ndse-homeworks](https://github.com/netology-code/ndse-homeworks)
+   + [ndse-diplom](https://github.com/netology-code/ndse-diplom)
+   + [ndse-code](https://github.com/netology-code/ndse-code)
 
 </details>
 <details><summary>NDTNF - Typescript, Nest.js, Firebase</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ndtnf-homeworks](https://github.com/netology-code/ndtnf-homeworks)
+   + [ndtnf-code](https://github.com/netology-code/ndtnf-code)
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
@@ -907,43 +916,36 @@
 </details>
 <details><summary>BPHP (Основы PHP)</summary>
 
-   + []()
-   + []()
-   + []()
-
+   + [bphp-2-homeworks](https://github.com/netology-code/bphp-2-homeworks)
+   + [bphp-2-materials](https://github.com/netology-code/bphp-2-materials)
+   + [bphp-2-code](https://github.com/netology-code/bphp-2-code)
+   + [bphp-diplom](https://github.com/netology-code/bphp-diplom)
+   + [bphp-homeworks](https://github.com/netology-code/bphp-homeworks)
+   + [bphp-materials](https://github.com/netology-code/bphp-materials)
+  
 </details>
 <details><summary>BWEB</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>BPATT</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>BCONT</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>BBAY</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
@@ -952,78 +954,56 @@
 ## NTW (Сетевой инженер)
 <details><summary>BNTW - Введение в сетевые технологии</summary>
 
-   + []()
-   + []()
-   + []()
+   + [bntw-homeworks](https://github.com/netology-code/bntw-homeworks)
 
 </details>
 <details><summary>RUTSW - Основы коммутации и маршрутизации</summary>
 
-   + []()
-   + []()
-   + []()
+   + [rutsw-homeworks](https://github.com/netology-code/rutsw-homeworks)
 
 </details>
 <details><summary>RSNT - Построение отказоустойчивых сетей</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>DRUT - Динамическая маршрутизация</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>SECNT - Сетевая безопасность</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>WFNT - Беспроводные сети</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>QOS - Методы обеспечения качества обслуживания</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>CRPNT - Основы проектирования корпоративных сетей</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>OPTNT - Инструменты эксплуатации</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
 <details><summary>IPNT - Основы IP-телефонии</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
@@ -1054,38 +1034,51 @@
 </details>
 <details><summary>BGO (основы golang)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [bgo-homeworks](https://github.com/netology-code/bgo-homeworks)
+   + [bgo-code](https://github.com/netology-code/bgo-code)
+   + [bgo-materials](https://github.com/netology-code/bgo-materials)
+   + [bgo-docker](https://github.com/netology-code/bgo-docker)
+   + [bgo-heroku](https://github.com/netology-code/bgo-heroku)
+   + [bgoci](https://github.com/netology-code/bgoci)
 
 </details>
 <details><summary>AGO (продвинутый golang)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ago-homeworks](https://github.com/netology-code/ago-homeworks)
+   + [ago-code](https://github.com/netology-code/ago-code)
+   + [ago-k8s-stateful](https://github.com/netology-code/ago-k8s-stateful)
+   + [ago-k8s-stateless](https://github.com/netology-code/ago-k8s-stateless)
+   + [ago-docker-k8s](https://github.com/netology-code/ago-docker-k8s)
 
 </details>
 <details><summary>AJS (JavaScript продвинутый)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ajs-materials](https://github.com/netology-code/ajs-materials)
+   + [ajs-homeworks](https://github.com/netology-code/ajs-homeworks)
+   + [ajs-diploma](https://github.com/netology-code/ajs-diploma)
+   + [ajs-code](https://github.com/netology-code/ajs-code)
+   + [ajs-task](https://github.com/netology-code/ajs-task)
+   + [ajs-templates](https://github.com/netology-code/ajs-templates)
+   + [ajs-platforms](https://github.com/netology-code/ajs-platforms)
+   + [ajs](https://github.com/netology-code/ajs)
 
 </details>
 <details><summary>RA (Библиотека React)</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ra16-homeworks](https://github.com/netology-code/ra16-homeworks)
+   + [ra16-materials](https://github.com/netology-code/ra16-materials)
+   + [ra-materials](https://github.com/netology-code/ra-materials)
+   + [ra16-code](https://github.com/netology-code/ra16-code)
+   + [ra16-templates](https://github.com/netology-code/ra16-templates)
+   + [ra16-diploma](https://github.com/netology-code/ra16-diploma)
+   + [ra-16-810411](https://github.com/netology-code/ra-16-810411)
+   + [ra-17-rodionov217](https://github.com/netology-code/ra-17-rodionov217)
+   + [ra-17-KonstantinKliukach](https://github.com/netology-code/ra-17-KonstantinKliukach)
+   + [ra-18-pavellevchuk](https://github.com/netology-code/ra-18-pavellevchuk)
 
 </details>
 <details><summary>Диплом профессии</summary>
 
    + []()
-   + []()
-   + []()
 
 </details>
-
-
