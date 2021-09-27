@@ -1055,7 +1055,7 @@
 </details>
 <br>
 
-<details><summary>GOL Golang-разработчик (закрыт)</summary>
+<details><summary><h2>GOL Golang-разработчик (закрыт)</h2></summary>
 <br>
 <details><summary>HTML (Верстка)</summary>
 
