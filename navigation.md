@@ -616,43 +616,32 @@
 ## SYS Системный администратор
 <details><summary>SLIN - IT-системы и Linux</summary>
 
-   + []()
-   + []()
-   + []()
+   + [slin-homeworks](https://github.com/netology-code/slin-homeworks)
 
 </details>
 <details><summary>SNET - Сеть, сетевые протоколы и Bash</summary>
 
-   + []()
-   + []()
-   + []()
+   + [snet-homeworks](https://github.com/netology-code/snet-homeworks)
 
 </details>
 <details><summary>SDVPS - Виртуализация, автоматизация и CI/CD</summary>
 
-   + []()
-   + []()
-   + []()
+   + [sdvps-homeworks](https://github.com/netology-code/sdvps-homeworks)
 
 </details>
 <details><summary>SRLB - Мониторинг и отказоустойчивость</summary>
 
-   + []()
-   + []()
-   + []()
+   + [srlb-homework](https://github.com/netology-code/srlb-homework)
+   + [srlb-added](https://github.com/netology-code/srlb-added)
 
 </details>
 <details><summary>SDB - Базы данных и информационная безопасность</summary>
 
-   + []()
-   + []()
-   + []()
+   + [sdb-homeworks](https://github.com/netology-code/sdb-homeworks)
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
@@ -661,22 +650,19 @@
 ## NDJS NodeJS-разработчик	
 <details><summary>NDSE - Настройка окружения и Express.js</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ndse-homeworks](https://github.com/netology-code/ndse-homeworks)
+   + [ndse-diplom](https://github.com/netology-code/ndse-diplom)
+   + [ndse-code](https://github.com/netology-code/ndse-code)
 
 </details>
 <details><summary>NDTNF - Typescript, Nest.js, Firebase</summary>
 
-   + []()
-   + []()
-   + []()
+   + [ndtnf-homeworks](https://github.com/netology-code/ndtnf-homeworks)
+   + [ndtnf-code](https://github.com/netology-code/ndtnf-code)
 
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
-   + []()
    + []()
 
 </details>
