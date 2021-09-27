@@ -998,7 +998,7 @@ BTRX (Bitrix-разработчик)
 </details>
 <br>
 
-<details><summary><h3>NTW (Сетевой инженер)</h3></summary>
+<details><summary>NTW (Сетевой инженер)</summary>
 <br>
 <details><summary>BNTW (Введение в сетевые технологии)</summary>
 
@@ -1057,8 +1057,7 @@ BTRX (Bitrix-разработчик)
 </details>
 </details>
 
-<details><summary><h3>GOL Golang-разработчик (закрыт)</h3></summary>
----
+<details><summary>GOL Golang-разработчик (закрыт)</summary>
 <br>
 <details><summary>HTML (Верстка)</summary>
 
