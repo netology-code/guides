@@ -1058,6 +1058,7 @@ BTRX (Bitrix-разработчик)
 </details>
 
 <details><summary><h3>GOL Golang-разработчик (закрыт)</h3></summary>
+---
 <br>
 <details><summary>HTML (Верстка)</summary>
 
