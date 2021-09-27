@@ -614,6 +614,75 @@
 <br>
 
 ## SYS Системный администратор
+<details><summary>SLIN - IT-системы и Linux</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>SNET - Сеть, сетевые протоколы и Bash</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>SDVPS - Виртуализация, автоматизация и CI/CD</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>SRLB - Мониторинг и отказоустойчивость</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>SDB - Базы данных и информационная безопасность</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary>Диплом профессии</summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<br>
+
+## NDJS NodeJS-разработчик	
+<details><summary></summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary></summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<details><summary></summary>
+
+   + []()
+   + []()
+   + []()
+
+</details>
+<br>
+
+## QAMID Инженер по тестированию: с нуля до Middle	
 <details><summary>IQA</summary>
 
    + [iqa-homeworks](https://github.com/netology-code/iqa-homeworks)
