@@ -669,7 +669,7 @@
 <br>
 
 ## QAMID Инженер по тестированию: с нуля до Middle	
-<details><summary>IQA</summary>
+<details><summary>IQA (Введение в тестирование)</summary>
 
    + [iqa-homeworks](https://github.com/netology-code/iqa-homeworks)
    + [iqa-materials](https://github.com/netology-code/iqa-materials)
@@ -683,7 +683,7 @@
    + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
-<details><summary>JAVAQA</summary>
+<details><summary>JAVAQA (Java для тестировщиков)</summary>
 
    + [javaqa-homeworks](https://github.com/netology-code/javaqa-homeworks)
    + [javaqa-code](https://github.com/netology-code/javaqa-code)
@@ -691,7 +691,7 @@
    + [javaqa-diploma](https://github.com/netology-code/javaqa-diploma)
 
 </details>
-<details><summary>AQA</summary>
+<details><summary>AQA (Автоматизация тестирования)</summary>
 
    + [aqa-homeworks](https://github.com/netology-code/aqa-homeworks)
    + [aqa-qamid-diplom](https://github.com/netology-code/aqa-qamid-diplom)
@@ -706,12 +706,12 @@
    + [aqabjs-homeworks](https://github.com/netology-code/aqabjs-homeworks)
 
 </details>
-<details><summary>JSQA</summary>
+<details><summary>JSQA (JavaScript для тестировщиков)</summary>
 
    + []()
 
 </details>
-<details><summary>JSAQA</summary>
+<details><summary>JSAQA (Автоматизация тестирования веб-интерфейсов)</summary>
 
    + [javaqa-homeworks](https://github.com/netology-code/javaqa-homeworks)
    + [javaqa-code](https://github.com/netology-code/javaqa-code)
@@ -719,17 +719,17 @@
    + [javaqa-diploma](https://github.com/netology-code/javaqa-diploma)
 
 </details>
-<details><summary>MQA</summary>
+<details><summary>MQA (Тестирование мобильных приложений)</summary>
 
    + [mqa-homeworks](https://github.com/netology-code/mqa-homeworks)
 
 </details>
-<details><summary>LOADQA</summary>
+<details><summary>LOADQA (Тестирование производительности)</summary>
 
    + []()
 
 </details>
-<details><summary>IBQA</summary>
+<details><summary>IBQA (Тестирование безопасности)</summary>
 
    + []()
 
@@ -742,7 +742,7 @@
 <br>
 
 ## FPY Fullstack-разработчик на Python
-<details><summary>PY</summary>
+<details><summary>PY (Python 1 уровень)</summary>
 
    + []()---------------------------------------------------
    + []()
@@ -755,17 +755,17 @@
    + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
-<details><summary>SQLPY</summary>
+<details><summary>SQLPY (базы данных)</summary>
 
    + []()
 
 </details>
-<details><summary>ADPY</summary>
+<details><summary>ADPY (Python продвинутый)</summary>
 
    + []()
 
 </details>
-<details><summary>DJ</summary>
+<details><summary>DJ (Фреймворк Django)</summary>
 
    + [dj-homeworks](https://github.com/netology-code/dj-homeworks)
    + [DJ_code](https://github.com/netology-code/DJ_code)
@@ -774,7 +774,7 @@
    + [django-graduate-work](https://github.com/netology-code/django-graduate-work)
 
 </details>
-<details><summary>HTML</summary>
+<details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
    + [HTML-2-Homeworks](https://github.com/netology-code/html-2-homeworks)
@@ -792,7 +792,7 @@
    + []()
 
 </details>
-<details><summary>BHJ</summary>
+<details><summary>BHJ(Основы JS в браузере)</summary>
 
    + [bhj-materials](https://github.com/netology-code/bhj-materials)
    + [bhj-homeworks](https://github.com/netology-code/bhj-homeworks)
@@ -800,7 +800,7 @@
    + [bhj-diploma-backend](https://github.com/netology-code/bhj-diploma-backend)
 
 </details>
-<details><summary>AJS</summary>
+<details><summary>AJS (JavaScript продвинутый)</summary>
 
    + [ajs-materials](https://github.com/netology-code/ajs-materials)
    + [ajs-homeworks](https://github.com/netology-code/ajs-homeworks)
@@ -812,7 +812,7 @@
    + [ajs](https://github.com/netology-code/ajs)
 
 </details>
-<details><summary>AHJ</summary>
+<details><summary>AHJ (JavaScript в браузере продвинутый)</summary>
 
    + [ahj_code](https://github.com/netology-code/ahj_code)
    + [ahj-materials](https://github.com/netology-code/ahj-materials)
@@ -822,7 +822,7 @@
    + [ahj-diploma](https://github.com/netology-code/ahj-diploma)
 
 </details>
-<details><summary>RA</summary>
+<details><summary>RA (Библиотека React)</summary>
 
    + [ra16-homeworks](https://github.com/netology-code/ra16-homeworks)
    + [ra16-materials](https://github.com/netology-code/ra16-materials)
