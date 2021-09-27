@@ -448,17 +448,17 @@ ONEC 1C-разработчик
    + []()
 
 </details>
-<details><summary>MA Механизмы учета</summary>
+<details><summary>MA (Механизмы учета)</summary>
 
    + []()
 
 </details>
-<details><summary>PV Механизмы расчета</summary>
+<details><summary>PV (Механизмы расчета)</summary>
 
    + []()
 
 </details>
-<details><summary>BPZ Бизнес-процессы и задачи</summary>
+<details><summary>BPZ (Бизнес-процессы и задачи)</summary>
 
    + []()
 
@@ -483,33 +483,33 @@ JD Java-разработчик
    + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
-<details><summary>JAVACORE - Java Core</summary>
+<details><summary>JAVACORE (Java Core)</summary>
 
    + []()
 
 </details>
-<details><summary>JPAT - Шаблоны проектирования</summary>
+<details><summary>JPAT (Шаблоны проектирования)</summary>
 
    + []()
 
 </details>
-<details><summary>JADV - Многопоточное и функциональное программирование</summary>
+<details><summary>JADV (Многопоточное и функциональное программирование)</summary>
 
    + []()
 
 </details>
-<details><summary>JSPR - Web, Spring & Spring MVC</summary>
+<details><summary>JSPR (Web, Spring & Spring MVC)</summary>
 
    + [jspr-homeworks](https://github.com/netology-code/jspr-homeworks)
    + [jspr-code](https://github.com/netology-code/jspr-code)
 
 </details>
-<details><summary>JCLO - Spring Boot, deployment и инфраструктура</summary>
+<details><summary>JCLO (Spring Boot, deployment и инфраструктура)</summary>
 
    + []()
 
 </details>
-<details><summary>JDATA - Хранение данных и организация безопасности</summary>
+<details><summary>JDATA (Хранение данных и организация безопасности)</summary>
 
    + []()
 
@@ -522,28 +522,28 @@ JD Java-разработчик
 <br>
 
 DEVOPS Devops-инженер
-<details><summary>DEVSYS - DevOps и системное администрирование</summary>
+<details><summary>DEVSYS (DevOps и системное администрирование)</summary>
 
    + []()
 
 </details>
-<details><summary>VIRT - Виртуализация, базы данных и Terraform</summary>
+<details><summary>VIRT (Виртуализация, базы данных и Terraform)</summary>
 
    + [virt-homeworks](https://github.com/netology-code/virt-homeworks)
 
 </details>
-<details><summary>MNT - Мониторинг, управление конфигурациями, Terraform</summary>
+<details><summary>MNT (Мониторинг, управление конфигурациями, Terraform)</summary>
 
    + [mnt-homeworks](https://github.com/netology-code/mnt-homeworks)
    + [mnt-homeworks-ansible](https://github.com/netology-code/mnt-homeworks-ansible)
 
 </details>
-<details><summary>DevKub - Администрирование и конфигурация Kubernetes</summary>
+<details><summary>DevKub (Администрирование и конфигурация Kubernetes)</summary>
 
    + [devkub-homeworks](https://github.com/netology-code/devkub-homeworks)
 
 </details>
-<details><summary>CLOKUB - Kubernetes и облачные сервисы</summary>
+<details><summary>CLOKUB (Kubernetes и облачные сервисы)</summary>
 
    + [clokub-homeworks](https://github.com/netology-code/clokub-homeworks)
 
@@ -556,46 +556,46 @@ DEVOPS Devops-инженер
 <br>
 
 SIB Специалист информационной безопасности
-<details><summary>IBB - Основы информационной безопасности</summary>
+<details><summary>IBB (Основы информационной безопасности)</summary>
 
    + [ibb-homeworks](https://github.com/netology-code/ibb-homeworks)
 
 </details>
-<details><summary>IBNET - Сети передачи данных и безопасность</summary>
+<details><summary>IBNET (Сети передачи данных и безопасность)</summary>
 
    + [ibnet-homeworks](https://github.com/netology-code/ibnet-homeworks)
 
 </details>
-<details><summary>IBOS - Безопасность операционных систем и современная разработка</summary>
+<details><summary>IBOS (Безопасность операционных систем и современная разработка)</summary>
 
    + [ibos-homeworks](https://github.com/netology-code/ibos-homeworks)
    + [ibos-code](https://github.com/netology-code/ibos-code)
 
 </details>
-<details><summary>IBDEV - Современная разработка ПО</summary>
+<details><summary>IBDEV (Современная разработка ПО)</summary>
 
    + [ibdev-homeworks](https://github.com/netology-code/ibdev-homeworks)
    + [ibdev-code](https://github.com/netology-code/ibdev-code)
 
 </details>
-<details><summary>IBWEB - Веб-приложения</summary>
+<details><summary>IBWEB (Веб-приложения)</summary>
 
    + [ibweb-homeworks](https://github.com/netology-code/ibweb-homeworks)
    + [ibweb-code](https://github.com/netology-code/ibweb-code)
 
 </details>
-<details><summary>IBDEF - Аttack & Defence</summary>
+<details><summary>IBDEF (Аttack & Defence)</summary>
 
    + [ibdef-homeworks](https://github.com/netology-code/ibdef-homeworks)
    + [ibdef-code](https://github.com/netology-code/ibdef-code)
 
 </details>
-<details><summary>IBMOD - Современная киберпреступность и методы противодействия</summary>
+<details><summary>IBMOD (Современная киберпреступность и методы противодействия)</summary>
 
    + []()
 
 </details>
-<details><summary>IBINC - Реагирование на инциденты ИБ и проактивный поиск угроз</summary>
+<details><summary>IBINC (Реагирование на инциденты ИБ и проактивный поиск угроз)</summary>
 
    + []()
 
@@ -614,28 +614,28 @@ SIB Специалист информационной безопасности
 <br>
 
 SYS Системный администратор
-<details><summary>SLIN - IT-системы и Linux</summary>
+<details><summary>SLIN (IT-системы и Linux)</summary>
 
    + [slin-homeworks](https://github.com/netology-code/slin-homeworks)
 
 </details>
-<details><summary>SNET - Сеть, сетевые протоколы и Bash</summary>
+<details><summary>SNET (Сеть, сетевые протоколы и Bash)</summary>
 
    + [snet-homeworks](https://github.com/netology-code/snet-homeworks)
 
 </details>
-<details><summary>SDVPS - Виртуализация, автоматизация и CI/CD</summary>
+<details><summary>SDVPS (Виртуализация, автоматизация и CI/CD)</summary>
 
    + [sdvps-homeworks](https://github.com/netology-code/sdvps-homeworks)
 
 </details>
-<details><summary>SRLB - Мониторинг и отказоустойчивость</summary>
+<details><summary>SRLB (Мониторинг и отказоустойчивость)</summary>
 
    + [srlb-homework](https://github.com/netology-code/srlb-homework)
    + [srlb-added](https://github.com/netology-code/srlb-added)
 
 </details>
-<details><summary>SDB - Базы данных и информационная безопасность</summary>
+<details><summary>SDB (Базы данных и информационная безопасность)</summary>
 
    + [sdb-homeworks](https://github.com/netology-code/sdb-homeworks)
 
@@ -648,14 +648,14 @@ SYS Системный администратор
 <br>
 
 NDJS NodeJS-разработчик	
-<details><summary>NDSE - Настройка окружения и Express.js</summary>
+<details><summary>NDSE (Настройка окружения и Express.js)</summary>
 
    + [ndse-homeworks](https://github.com/netology-code/ndse-homeworks)
    + [ndse-diplom](https://github.com/netology-code/ndse-diplom)
    + [ndse-code](https://github.com/netology-code/ndse-code)
 
 </details>
-<details><summary>NDTNF - Typescript, Nest.js, Firebase</summary>
+<details><summary>NDTNF (Typescript, Nest.js, Firebase)</summary>
 
    + [ndtnf-homeworks](https://github.com/netology-code/ndtnf-homeworks)
    + [ndtnf-code](https://github.com/netology-code/ndtnf-code)
@@ -701,7 +701,7 @@ QAMID Инженер по тестированию: с нуля до Middle
    + [aqa-hw-sample](https://github.com/netology-code/aqa-hw-sample)
 
 </details>
-<details><summary>AQABJS Курсовая работа по итогам 4 модулей и введение в JavaScript</summary>
+<details><summary>AQABJS (Курсовая работа по итогам 4 модулей и введение в JavaScript)</summary>
 
    + [aqabjs-homeworks](https://github.com/netology-code/aqabjs-homeworks)
 
@@ -782,12 +782,12 @@ FPY Fullstack-разработчик на Python
    + [html-2-materials](https://github.com/netology-code/html-2-materials)
   
 </details>
-<details><summary>FPYMQ Адаптивная и мобильная верстка (VIDEO)</summary>
+<details><summary>FPYMQ (Адаптивная и мобильная верстка VIDEO)</summary>
 
    + []()
 
 </details>
-<details><summary>FPYJS Введение в JavaScript для FPY</summary>
+<details><summary>FPYJS (Введение в JavaScript для FPY)</summary>
 
    + []()
 
@@ -970,22 +970,22 @@ BTRX (Bitrix-разработчик)
    + [bphp-materials](https://github.com/netology-code/bphp-materials)
   
 </details>
-<details><summary>BWEB Работа веб-приложений</summary>
+<details><summary>BWEB (Работа веб-приложений)</summary>
 
    + []()
 
 </details>
-<details><summary>BPATT Установка и настройка 1С-Битрикс</summary>
+<details><summary>BPATT (Установка и настройка 1С-Битрикс)</summary>
 
    + []()
 
 </details>
-<details><summary>BCONT Создание контента</summary>
+<details><summary>BCONT (Создание контента)</summary>
 
    + []()
 
 </details>
-<details><summary>BBAY Управление заказами</summary>
+<details><summary>BBAY (Управление заказами)</summary>
 
    + []()
 
@@ -999,52 +999,52 @@ BTRX (Bitrix-разработчик)
 
 <details><summary><h3>NTW (Сетевой инженер)</h3></summary>
 <br>
-<details><summary>BNTW - Введение в сетевые технологии</summary>
+<details><summary>BNTW (Введение в сетевые технологии)</summary>
 
    + [bntw-homeworks](https://github.com/netology-code/bntw-homeworks)
 
 </details>
-<details><summary>RUTSW - Основы коммутации и маршрутизации</summary>
+<details><summary>RUTSW (Основы коммутации и маршрутизации)</summary>
 
    + [rutsw-homeworks](https://github.com/netology-code/rutsw-homeworks)
 
 </details>
-<details><summary>RSNT - Построение отказоустойчивых сетей</summary>
+<details><summary>RSNT (Построение отказоустойчивых сетей)</summary>
 
    + []()
 
 </details>
-<details><summary>DRUT - Динамическая маршрутизация</summary>
+<details><summary>DRUT (Динамическая маршрутизация)</summary>
 
    + []()
 
 </details>
-<details><summary>SECNT - Сетевая безопасность</summary>
+<details><summary>SECNT (Сетевая безопасность)</summary>
 
    + []()
 
 </details>
-<details><summary>WFNT - Беспроводные сети</summary>
+<details><summary>WFNT (Беспроводные сети)</summary>
 
    + []()
 
 </details>
-<details><summary>QOS - Методы обеспечения качества обслуживания</summary>
+<details><summary>QOS (Методы обеспечения качества обслуживания)</summary>
 
    + []()
 
 </details>
-<details><summary>CRPNT - Основы проектирования корпоративных сетей</summary>
+<details><summary>CRPNT (Основы проектирования корпоративных сетей)</summary>
 
    + []()
 
 </details>
-<details><summary>OPTNT - Инструменты эксплуатации</summary>
+<details><summary>OPTNT (Инструменты эксплуатации)</summary>
 
    + []()
 
 </details>
-<details><summary>IPNT - Основы IP-телефонии</summary>
+<details><summary>IPNT (Основы IP-телефонии)</summary>
 
    + []()
 
