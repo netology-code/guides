@@ -659,21 +659,21 @@
 <br>
 
 ## NDJS NodeJS-разработчик	
-<details><summary></summary>
+<details><summary>NDSE - Настройка окружения и Express.js</summary>
 
    + []()
    + []()
    + []()
 
 </details>
-<details><summary></summary>
+<details><summary>NDTNF - Typescript, Nest.js, Firebase</summary>
 
    + []()
    + []()
    + []()
 
 </details>
-<details><summary></summary>
+<details><summary>Диплом профессии</summary>
 
    + []()
    + []()
