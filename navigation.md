@@ -1056,6 +1056,7 @@
 <br>
 
 <details><summary>GOL Golang-разработчик (закрыт)</summary>
+   
 <details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
