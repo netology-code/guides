@@ -970,22 +970,22 @@
    + [bphp-materials](https://github.com/netology-code/bphp-materials)
   
 </details>
-<details><summary>BWEB</summary>
+<details><summary>BWEB Работа веб-приложений</summary>
 
    + []()
 
 </details>
-<details><summary>BPATT</summary>
+<details><summary>BPATT Установка и настройка 1С-Битрикс</summary>
 
    + []()
 
 </details>
-<details><summary>BCONT</summary>
+<details><summary>BCONT Создание контента</summary>
 
    + []()
 
 </details>
-<details><summary>BBAY</summary>
+<details><summary>BBAY Управление заказами</summary>
 
    + []()
 
@@ -1055,7 +1055,7 @@
 </details>
 <br>
 
-## GOL Golang-разработчик (закрыт)
+<details><summary>GOL Golang-разработчик (закрыт)</summary>
 <details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
@@ -1127,4 +1127,5 @@
 
    + []()
 
+</details>
 </details>
