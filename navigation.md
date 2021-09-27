@@ -701,7 +701,7 @@
    + [aqa-hw-sample](https://github.com/netology-code/aqa-hw-sample)
 
 </details>
-<details><summary>AQABJS</summary>
+<details><summary>AQABJS Курсовая работа по итогам 4 модулей и введение в JavaScript</summary>
 
    + [aqabjs-homeworks](https://github.com/netology-code/aqabjs-homeworks)
 
@@ -782,12 +782,12 @@
    + [html-2-materials](https://github.com/netology-code/html-2-materials)
   
 </details>
-<details><summary>FPYMQ</summary>
+<details><summary>FPYMQ Адаптивная и мобильная верстка (VIDEO)</summary>
 
    + []()
 
 </details>
-<details><summary>FPYJS</summary>
+<details><summary>FPYJS Введение в JavaScript для FPY</summary>
 
    + []()
 
