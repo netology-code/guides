@@ -207,6 +207,7 @@
    + [fs-diplom](https://github.com/netology-code/fs-diplom)
 
 </details>
+<br>
 </details>
 
 
@@ -265,6 +266,7 @@
    + [pd-diplom](https://github.com/netology-code/pd-diplom)
 
 </details>
+<br>
 </details>
 
 
@@ -318,6 +320,7 @@
    + []()
 
 </details>
+<br>
 </details>
 
 
@@ -363,6 +366,7 @@
    + [qa-materials](https://github.com/netology-code/qa-materials)
 
 </details>
+<br>
 </details>
 
 
@@ -421,6 +425,7 @@
    + [ios-1-diplom](https://github.com/netology-code/ios-1-diplom)
 
 </details>
+<br>
 </details>
 
 
@@ -481,6 +486,7 @@
    + []()
 
 </details>
+<br>
 </details>
 
 
@@ -534,6 +540,7 @@
    + []()
 
 </details>
+<br>
 </details>
 
 
@@ -570,6 +577,7 @@
    + [devops-diplom](https://github.com/netology-code/devops-diplom)
 
 </details>
+<br>
 </details>
 
 
@@ -630,6 +638,7 @@
    + [sib-incident-diploma](https://github.com/netology-code/sib-incident-diploma)
 
 </details>
+<br>
 </details>
 
 
@@ -666,6 +675,7 @@
    + []()
 
 </details>
+<br>
 </details>
 
 
@@ -689,6 +699,7 @@
    + []()
 
 </details>
+<br>
 </details>
 
 
@@ -764,6 +775,7 @@
    + [sys-diplom](https://github.com/netology-code/sys-diplom)
 
 </details>
+<br>
 </details>
 
 
@@ -868,6 +880,7 @@
    + []()
 
 </details>
+<br>
 </details>
 
 
@@ -964,6 +977,7 @@
    + []()
 
 </details>
+<br>
 </details>
 
 
@@ -1026,6 +1040,7 @@
    + []()
 
 </details>
+<br>
 </details>
 
 
@@ -1086,6 +1101,7 @@
    + []()
 
 </details>
+<br>
 </details>
 
 
@@ -1163,4 +1179,5 @@
    + []()
 
 </details>
+<br>
 </details>
