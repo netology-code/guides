@@ -1,7 +1,7 @@
 # Список профессии
 
-FE Frontend-разработчик
----
+<details><summary>FE Frontend-разработчик</summary>
+<br>
 <details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
@@ -91,9 +91,11 @@ FE Frontend-разработчик
    + [fe-diplom-trainbooking](https://github.com/netology-code/fe-diplom-trainbooking)
 
 </details>
+</details>
 <br>
 
-FS Веб-разработчик
+<details><summary>FS Веб-разработчик</summary>
+<br>
 <details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
@@ -204,9 +206,11 @@ FS Веб-разработчик
    + [fs-diplom](https://github.com/netology-code/fs-diplom)
 
 </details>
+</details>
 <br>
 
-PD Python-разработчик 
+<details><summary>PD Python-разработчик</summary>
+<br>
 <details><summary>PY (Python 1 уровень)</summary>
 
    + [py-homeworks-basic](https://github.com/netology-code/py-homeworks-basic)
@@ -260,9 +264,11 @@ PD Python-разработчик
    + [pd-diplom](https://github.com/netology-code/pd-diplom)
 
 </details>
+</details>
 <br>
 
-AN Android-разработчик
+<details><summary>AN Android-разработчик</summary>
+<br>
 <details><summary>JAVA (Основы Java)</summary>
 
    + [java-homeworks](https://github.com/netology-code/java-homeworks)
@@ -311,9 +317,11 @@ AN Android-разработчик
    + []()
 
 </details>
+</details>
 <br>
 
- QA Тестировщик
+<details><summary>QA Тестировщик</summary>
+<br>
 <details><summary>IQA (Введение в тестирование)</summary>
 
    + [iqa-homeworks](https://github.com/netology-code/iqa-homeworks)
@@ -354,9 +362,10 @@ AN Android-разработчик
    + [qa-materials](https://github.com/netology-code/qa-materials)
 
 </details>
+</details>
 <br>
 
-IOS iOS-разработчик
+<details><summary>IOS iOS-разработчик</summary>
 <details><summary>BIOS (Введение в Swift)</summary>
 
    + [bios-2-homeworks](https://github.com/netology-code/bios-2-homeworks)
@@ -411,9 +420,11 @@ IOS iOS-разработчик
    + [ios-1-diplom](https://github.com/netology-code/ios-1-diplom)
 
 </details>
+</details>
 <br>
 
-ONEC 1C-разработчик	
+<details><summary>ONEC 1C-разработчик</summary>
+<br>
 <details><summary>SRK (Среда разработки и конфигурация)</summary>
 
    + []()
@@ -469,9 +480,11 @@ ONEC 1C-разработчик
    + []()
 
 </details>
+</details>
 <br>
 
-JD Java-разработчик
+<details><summary>JD Java-разработчик</summary>
+<br>
 <details><summary>JAVA (Основы Java)</summary>
 
    + [java-homeworks](https://github.com/netology-code/java-homeworks)
@@ -520,9 +533,11 @@ JD Java-разработчик
    + []()
 
 </details>
+</details>
 <br>
 
-DEVOPS Devops-инженер
+<details><summary>DEVOPS Devops-инженер</summary>
+<br>
 <details><summary>DEVSYS (DevOps и системное администрирование)</summary>
 
    + []()
@@ -554,9 +569,11 @@ DEVOPS Devops-инженер
    + [devops-diplom](https://github.com/netology-code/devops-diplom)
 
 </details>
+</details>
 <br>
 
-SIB Специалист информационной безопасности
+<details><summary>SIB Специалист информационной безопасности</summary>
+<br>
 <details><summary>IBB (Основы информационной безопасности)</summary>
 
    + [ibb-homeworks](https://github.com/netology-code/ibb-homeworks)
@@ -612,9 +629,11 @@ SIB Специалист информационной безопасности
    + [sib-incident-diploma](https://github.com/netology-code/sib-incident-diploma)
 
 </details>
+</details>
 <br>
 
-SYS Системный администратор
+<details><summary>SYS Системный администратор</summary>
+<br>
 <details><summary>SLIN (IT-системы и Linux)</summary>
 
    + [slin-homeworks](https://github.com/netology-code/slin-homeworks)
@@ -646,9 +665,11 @@ SYS Системный администратор
    + []()
 
 </details>
+</details>
 <br>
 
-NDJS NodeJS-разработчик	
+<details><summary>NDJS NodeJS-разработчик</summary>
+<br>
 <details><summary>NDSE (Настройка окружения и Express.js)</summary>
 
    + [ndse-homeworks](https://github.com/netology-code/ndse-homeworks)
@@ -667,9 +688,11 @@ NDJS NodeJS-разработчик
    + []()
 
 </details>
+</details>
 <br>
 
-QAMID Инженер по тестированию: с нуля до Middle	
+<details><summary>QAMID Инженер по тестированию: с нуля до Middle</summary>
+<br>
 <details><summary>IQA (Введение в тестирование)</summary>
 
    + [iqa-homeworks](https://github.com/netology-code/iqa-homeworks)
@@ -740,9 +763,11 @@ QAMID Инженер по тестированию: с нуля до Middle
    + [sys-diplom](https://github.com/netology-code/sys-diplom)
 
 </details>
+</details>
 <br>
 
-FPY Fullstack-разработчик на Python
+<details><summary>FPY Fullstack-разработчик на Python</summary>
+<br>
 <details><summary>PY (Python 1 уровень)</summary>
 
    + []()---------------------------------------------------
@@ -842,9 +867,11 @@ FPY Fullstack-разработчик на Python
    + []()
 
 </details>
+</details>
 <br>
 
-FJS Fullstack JavaScript-разработчик
+<details><summary>FJS Fullstack JavaScript-разработчик</summary>
+<br>
 <details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
@@ -936,9 +963,11 @@ FJS Fullstack JavaScript-разработчик
    + []()
 
 </details>
+</details>
 <br>
 
-BTRX (Bitrix-разработчик)
+<details><summary>BTRX (Bitrix-разработчик)</summary>
+<br>
 <details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
@@ -995,6 +1024,7 @@ BTRX (Bitrix-разработчик)
 
    + []()
 
+</details>
 </details>
 <br>
 
