@@ -92,7 +92,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>FS Веб-разработчик</summary>
 <br>
@@ -207,7 +207,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>PD Python-разработчик</summary>
 <br>
@@ -265,7 +265,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>AN Android-разработчик</summary>
 <br>
@@ -318,7 +318,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>QA Тестировщик</summary>
 <br>
@@ -363,7 +363,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>IOS iOS-разработчик</summary>
 <details><summary>BIOS (Введение в Swift)</summary>
@@ -421,7 +421,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>ONEC 1C-разработчик</summary>
 <br>
@@ -481,7 +481,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>JD Java-разработчик</summary>
 <br>
@@ -534,7 +534,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>DEVOPS Devops-инженер</summary>
 <br>
@@ -570,7 +570,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>SIB Специалист информационной безопасности</summary>
 <br>
@@ -630,7 +630,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>SYS Системный администратор</summary>
 <br>
@@ -666,7 +666,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>NDJS NodeJS-разработчик</summary>
 <br>
@@ -689,7 +689,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>QAMID Инженер по тестированию: с нуля до Middle</summary>
 <br>
@@ -764,7 +764,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>FPY Fullstack-разработчик на Python</summary>
 <br>
@@ -868,7 +868,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>FJS Fullstack JavaScript-разработчик</summary>
 <br>
@@ -964,7 +964,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>BTRX (Bitrix-разработчик)</summary>
 <br>
@@ -1026,7 +1026,7 @@
 
 </details>
 </details>
-<br>
+
 
 <details><summary>NTW (Сетевой инженер)</summary>
 <br>
@@ -1086,6 +1086,7 @@
 
 </details>
 </details>
+
 
 <details><summary>GOL Golang-разработчик (закрыт)</summary>
 <br>
