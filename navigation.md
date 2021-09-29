@@ -308,7 +308,7 @@
 <br>
 </details>
 
-<details><summary>BTRX (Bitrix-разработчик)</summary>
+<details><summary>BTRX Bitrix-разработчик</summary>
 <br>
 <details><summary>HTML (Верстка)</summary>
 
@@ -802,7 +802,7 @@
 <br>
 </details>
 
-<details><summary>NTW (Сетевой инженер)</summary>
+<details><summary>NTW Сетевой инженер</summary>
 <br>
 <details><summary>BNTW (Введение в сетевые технологии)</summary>
 
