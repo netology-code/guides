@@ -4,6 +4,7 @@
 
 <details><summary>FE Frontend-разработчик</summary>
 <br>
+<br>
 <details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
@@ -98,6 +99,7 @@
 
 
 <details><summary>FS Веб-разработчик</summary>
+<br>
 <br>
 <details><summary>HTML (Верстка)</summary>
 
@@ -213,6 +215,7 @@
 </details>
 
 <details><summary>FJS Fullstack JavaScript-разработчик</summary>
+<br>
 <br>
 <details><summary>HTML (Верстка)</summary>
 
@@ -373,6 +376,7 @@
 ## Backend (Python), Frontend (JavaScript+React)
 
 <details><summary>PD Python-разработчик</summary>
+<br>
 <br>
 <details><summary>PY (Python 1 уровень)</summary>
 
