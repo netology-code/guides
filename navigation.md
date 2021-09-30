@@ -925,11 +925,9 @@
 </details>
 <details><summary>JSAQA (Автоматизация тестирования веб-интерфейсов)</summary>
 
-   + [javaqa-homeworks](https://github.com/netology-code/javaqa-homeworks)
-   + [javaqa-code](https://github.com/netology-code/javaqa-code)
-   + [javaqa-materials](https://github.com/netology-code/javaqa-materials)
-   + [javaqa-diploma](https://github.com/netology-code/javaqa-diploma)
-
+   + [jsaqa-homeworks](https://github.com/netology-code/jsaqa-homeworks)
+   + [jsaqa-code](https://github.com/netology-code/jsaqa-code)
+  
 </details>
 <details><summary>MQA (Тестирование мобильных приложений)</summary>
 
@@ -938,12 +936,12 @@
 </details>
 <details><summary>LOADQA (Тестирование производительности)</summary>
 
-   + []()
+   + [loadqa-homework](https://github.com/netology-code/loadqa-homeworks)
 
 </details>
 <details><summary>IBQA (Тестирование безопасности)</summary>
 
-   + []()
+   + [ibqa-homeworks](https://github.com/netology-code/ibqa-homeworks)
 
 </details>
 <details><summary>Диплом профессии</summary>
