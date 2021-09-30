@@ -379,7 +379,7 @@
 <details><summary>PD Python-разработчик</summary>
 <br>
 <br>
-<details><summary>PY (Python 1 уровень)</summary>
+/s<details><summary>PY (Python 1 уровень)</summary>
 
    + [py-homeworks-basic](https://github.com/netology-code/py-homeworks-basic)
    + [py-homework-basic](https://github.com/netology-code/py-homework-basic)
