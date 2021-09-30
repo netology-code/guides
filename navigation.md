@@ -313,6 +313,7 @@
 
 <details><summary>BTRX Bitrix-разработчик</summary>
 <br>
+<br>
 <details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
@@ -436,6 +437,7 @@
 
 <details><summary>FPY Fullstack-разработчик на Python</summary>
 <br>
+<br>
 <details><summary>PY (Python 1 уровень)</summary>
 
    + []()---------------------------------------------------
@@ -542,6 +544,7 @@
 
 <details><summary>JD Java-разработчик</summary>
 <br>
+<br>
 <details><summary>JAVA (Основы Java)</summary>
 
    + [java-homeworks](https://github.com/netology-code/java-homeworks)
@@ -597,6 +600,7 @@
 
 <details><summary>AN Android-разработчик</summary>
 <br>
+<br>
 <details><summary>JAVA (Основы Java)</summary>
 
    + [java-homeworks](https://github.com/netology-code/java-homeworks)
@@ -649,6 +653,8 @@
 </details>
 
 <details><summary>IOS iOS-разработчик</summary>
+  <br>
+  <br>
 <details><summary>BIOS (Введение в Swift)</summary>
 
    + [bios-2-homeworks](https://github.com/netology-code/bios-2-homeworks)
@@ -712,6 +718,7 @@
 
 <details><summary>DEVOPS Devops-инженер</summary>
 <br>
+<br>
 <details><summary>DEVSYS (DevOps и системное администрирование)</summary>
 
    + []()
@@ -747,6 +754,7 @@
 </details>
 
 <details><summary>SYS Системный администратор</summary>
+<br>
 <br>
 <details><summary>SLIN (IT-системы и Linux)</summary>
 
@@ -785,6 +793,7 @@
 
 <details><summary>NDJS NodeJS-разработчик</summary>
 <br>
+<br>
 <details><summary>NDSE (Настройка окружения и Express.js)</summary>
 
    + [ndse-homeworks](https://github.com/netology-code/ndse-homeworks)
@@ -807,6 +816,7 @@
 </details>
 
 <details><summary>NTW Сетевой инженер</summary>
+<br>
 <br>
 <details><summary>BNTW (Введение в сетевые технологии)</summary>
 
@@ -869,6 +879,7 @@
 ## Тестирование
 
 <details><summary>QAMID Инженер по тестированию: с нуля до Middle</summary>
+<br>
 <br>
 <details><summary>IQA (Введение в тестирование)</summary>
 
@@ -945,6 +956,7 @@
 
 <details><summary>QA Тестировщик</summary>
 <br>
+<br>
 <details><summary>IQA (Введение в тестирование)</summary>
 
    + [iqa-homeworks](https://github.com/netology-code/iqa-homeworks)
@@ -991,6 +1003,7 @@
 ##
 
 <details><summary>SIB Специалист информационной безопасности</summary>
+<br>
 <br>
 <details><summary>IBB (Основы информационной безопасности)</summary>
 
@@ -1051,6 +1064,7 @@
 </details>
 
 <details><summary>ONEC 1C-разработчик</summary>
+<br>
 <br>
 <details><summary>SRK (Среда разработки и конфигурация)</summary>
 
@@ -1113,6 +1127,7 @@
 ##
 
 <details><summary>GOL Golang-разработчик (закрыт)</summary>
+<br>
 <br>
 <details><summary>HTML (Верстка)</summary>
 
