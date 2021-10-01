@@ -5,7 +5,7 @@
 <details><summary>FE Frontend-разработчик</summary>
 <br>
 <br>
-<details><summary>HTML (Верстка)</summary>
+<details><summary> &nbsp;HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
    + [HTML-2-Homeworks](https://github.com/netology-code/html-2-homeworks)
