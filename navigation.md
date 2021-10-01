@@ -5,7 +5,7 @@
 <details><summary>FE Frontend-разработчик</summary>
 <br>
 <br>
-<details><summary>HTML (Верстка)</summary>
+&nbsp;<details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
    + [HTML-2-Homeworks](https://github.com/netology-code/html-2-homeworks)
@@ -13,7 +13,7 @@
    + [html-2-materials](https://github.com/netology-code/html-2-materials)
   
 </details>
-<details><summary>MQ (Мобильная и адаптивная верстка)</summary>
+&nbsp;<details><summary>MQ (Мобильная и адаптивная верстка)</summary>
 
    + [MQ-Materials](https://github.com/netology-code/mq-materials)
    + [MQ-Homeworks](https://github.com/netology-code/mq-homeworks)
