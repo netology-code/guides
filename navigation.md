@@ -304,6 +304,31 @@
 
 </details>
 <details><summary>Диплом профессии</summary>
+   
+  + []()
+
+</details>
+<br>
+</details>
+
+
+<details><summary>NDJS NodeJS-разработчик</summary>
+<br>
+<br>
+<details><summary>NDSE (Настройка окружения и Express.js)</summary>
+
+   + [ndse-homeworks](https://github.com/netology-code/ndse-homeworks)
+   + [ndse-diplom](https://github.com/netology-code/ndse-diplom)
+   + [ndse-code](https://github.com/netology-code/ndse-code)
+
+</details>
+<details><summary>NDTNF (Typescript, Nest.js, Firebase)</summary>
+
+   + [ndtnf-homeworks](https://github.com/netology-code/ndtnf-homeworks)
+   + [ndtnf-code](https://github.com/netology-code/ndtnf-code)
+
+</details>
+<details><summary>Диплом профессии</summary>
 
    + []()
 
@@ -781,31 +806,6 @@
 <details><summary>SDB (Базы данных и информационная безопасность)</summary>
 
    + [sdb-homeworks](https://github.com/netology-code/sdb-homeworks)
-
-</details>
-<details><summary>Диплом профессии</summary>
-
-   + []()
-
-</details>
-<br>
-</details>
-
-
-<details><summary>NDJS NodeJS-разработчик</summary>
-<br>
-<br>
-<details><summary>NDSE (Настройка окружения и Express.js)</summary>
-
-   + [ndse-homeworks](https://github.com/netology-code/ndse-homeworks)
-   + [ndse-diplom](https://github.com/netology-code/ndse-diplom)
-   + [ndse-code](https://github.com/netology-code/ndse-code)
-
-</details>
-<details><summary>NDTNF (Typescript, Nest.js, Firebase)</summary>
-
-   + [ndtnf-homeworks](https://github.com/netology-code/ndtnf-homeworks)
-   + [ndtnf-code](https://github.com/netology-code/ndtnf-code)
 
 </details>
 <details><summary>Диплом профессии</summary>
