@@ -339,8 +339,7 @@
 <details><summary>BTRX Bitrix-разработчик</summary>
  + [btrx-homeworks](https://github.com/netology-code/btrx-homeworks)
 </details>   
-<br>
-<br>
+
 <details><summary>HTML (Верстка)</summary>
 
    + [HTML-Homeworks](https://github.com/netology-code/html-homeworks)
