@@ -749,7 +749,7 @@
 <br>
 <details><summary>DEVSYS (DevOps и системное администрирование)</summary>
 
-   + []()
+   + [sysadm-homeworks](https://github.com/netology-code/sysadm-homeworks)
 
 </details>
 <details><summary>VIRT (Виртуализация, базы данных и Terraform)</summary>
