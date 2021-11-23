@@ -802,8 +802,7 @@
 <details><summary>SRLB (Мониторинг и отказоустойчивость)</summary>
 
    + [srlb-homework](https://github.com/netology-code/srlb-homework)
-   + [srlb-added](https://github.com/netology-code/srlb-added)
-
+ 
 </details>
 <details><summary>SDB (Базы данных и информационная безопасность)</summary>
 
@@ -812,7 +811,7 @@
 </details>
 <details><summary>Диплом профессии</summary>
 
-   + []()
+   + [sys-diplome](https://github.com/netology-code/sys-diplom/blob/main/README.md)
 
 </details>
 <br>
