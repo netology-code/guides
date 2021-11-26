@@ -747,6 +747,11 @@
 <details><summary>DEVOPS Devops-инженер</summary>
 <br>
 <br>
+<details><summary>DEVSYS (Основы языка программирования Python. Подарочный модуль с самопроверкой. Вторая ветка с правильными ответами)</summary>
+
+   + [devpy](https://github.com/netology-code/devpy)
+
+</details>
 <details><summary>DEVSYS (DevOps и системное администрирование)</summary>
 
    + [sysadm-homeworks](https://github.com/netology-code/sysadm-homeworks)
