@@ -747,7 +747,7 @@
 <details><summary>DEVOPS Devops-инженер</summary>
 <br>
 <br>
-<details><summary>DEVSYS (Основы языка программирования Python. Подарочный модуль с самопроверкой. Вторая ветка с правильными ответами)</summary>
+<details><summary>DEVPY (Основы языка программирования Python. Подарочный модуль с самопроверкой. Вторая ветка с "эталонными" ответами)</summary>
 
    + [devpy](https://github.com/netology-code/devpy)
 
@@ -825,6 +825,11 @@
 <details><summary>NTW Сетевой инженер</summary>
 <br>
 <br>
+<details><summary> SLIN-WORK(IT-системы и Linux. Подарочный модуль с эталонными ответами)</summary>
+
+   + [slin-work](https://github.com/netology-code/slin-work)
+
+</details>
 <details><summary>BNTW (Введение в сетевые технологии)</summary>
 
    + [bntw-homeworks](https://github.com/netology-code/bntw-homeworks)
