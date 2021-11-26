@@ -10,5 +10,5 @@
 
 - [Работа с редактором в ОС Linux](Linux-editors.md "Работа с редактором в ОС Linux")
 
-- [Шпаргалка по работе с Markdown](../guides/tree/master/markdown/Markdown-docs.md "Шпаргалка по работе с Markdown")
+- [Шпаргалка по работе с Markdown](markdown/ "Шпаргалка по работе с Markdown")
 
