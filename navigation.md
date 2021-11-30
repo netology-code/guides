@@ -78,16 +78,12 @@
    + [ra16-materials](https://github.com/netology-code/ra16-materials)
    + [ra16-templates](https://github.com/netology-code/ra16-templates)
    + [ra-materials](https://github.com/netology-code/ra-materials)
-   + [ra-16-810411](https://github.com/netology-code/ra-16-810411)
-   + [ra-17-rodionov217](https://github.com/netology-code/ra-17-rodionov217)
-   + [ra-17-KonstantinKliukach](https://github.com/netology-code/ra-17-KonstantinKliukach)
-   + [ra-18-pavellevchuk](https://github.com/netology-code/ra-18-pavellevchuk)
+   + [ra-16-810411 - репо для ленда](https://github.com/netology-code/ra-16-810411)
 
 </details>
 <details><summary>Диплом профессии</summary>
 
    + [fe-2-diplom](https://github.com/netology-code/fe-2-diplom)
-   + [fe-diplom-trainbooking](https://github.com/netology-code/fe-diplom-trainbooking)
 
 </details>
 <br>
@@ -106,104 +102,94 @@
 </details>
 <details><summary>MQ (Мобильная и адаптивная верстка)</summary>
 
+   + [MQ-Homeworks - ДЗ для студентов](https://github.com/netology-code/mq-homeworks)
+   + [MQ-Diploma - курсовая для студентов](https://github.com/netology-code/mq-diploma)
    + [MQ-Materials](https://github.com/netology-code/mq-materials)
-   + [MQ-Homeworks](https://github.com/netology-code/mq-homeworks)
-   + [MQ-Diploma](https://github.com/netology-code/mq-diploma)
-   + [MQ-Diploma-Old](https://github.com/netology-code/mq-diploma-old)
   
 </details>
 <details><summary>PB (Основы программирования)</summary>
 
-   + [PB-Materials](https://github.com/netology-code/pb-materials)
-   + [PB-2-Materials](https://github.com/netology-code/pb-2-materials)
-   + [PB-Homeworks](https://github.com/netology-code/pb-homeworks)
-   + [PB-Diplom](https://github.com/netology-code/pb-diplom)
+   + [PB-Homeworks - ДЗ для студентов](https://github.com/netology-code/pb-homeworks)
+   + [PB-Diplom - курсовая для студентов](https://github.com/netology-code/pb-diplom)
+   + [PB-Materials - полная информация по курсу для лекторов. Нужна чистка репо (убрать презентации и лишние блоки)](https://github.com/netology-code/pb-materials)
+   + [PB-2-Materials - код для лекций](https://github.com/netology-code/pb-2-materials)
 
 </details>
 <details><summary>GIT</summary>
 
+   + [Git-Homeworks - ДЗ для студентов](https://github.com/netology-code/git-homeworks)
    + [Git-Materials](https://github.com/netology-code/git-materials)
-   + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
 <details><summary>BJS (Основы JavaScript)</summary>
 
-   + [BJS-Materials](https://github.com/netology-code/bjs-materials)
-   + [BJS-Homeworks](https://github.com/netology-code/bjs-homeworks)
-   + [BJS-2-Homeworks](https://github.com/netology-code/bjs-2-homeworks)
-   + [BJS-Diplom](https://github.com/netology-code/bjs-diplom)
-   + [bjs-3-code](https://github.com/netology-code/bjs-3-code)
+   + [BJS-2-Homeworks - ДЗ для студентов](https://github.com/netology-code/bjs-2-homeworks)
+   + [BJS-Diplom - курсовая для студентов](https://github.com/netology-code/bjs-diplom)
+   + [bjs-3-code - конспекты лекций](https://github.com/netology-code/bjs-3-code)
+   + [BJS-Materials - нужно почистить репо, удалить старые презы, скорректировать информацию по ДЗ.](https://github.com/netology-code/bjs-materials)
 
 </details>
 <details><summary>BHJ (Основы JS в браузере)</summary>
 
+   + [bhj-homeworks - ДЗ для студентов](https://github.com/netology-code/bhj-homeworks)
+   + [bhj-diploma - курсовая для студентов](https://github.com/netology-code/bhj-diploma)
+   + [bhj-diploma-backend - уточняю](https://github.com/netology-code/bhj-diploma-backend)
    + [bhj-materials](https://github.com/netology-code/bhj-materials)
-   + [bhj-homeworks](https://github.com/netology-code/bhj-homeworks)
-   + [bhj-diploma](https://github.com/netology-code/bhj-diploma)
-   + [bhj-diploma-backend](https://github.com/netology-code/bhj-diploma-backend)
 
 </details>
 <details><summary>AJS (JavaScript продвинутый)</summary>
 
-   + [ajs-materials](https://github.com/netology-code/ajs-materials)
-   + [ajs-homeworks](https://github.com/netology-code/ajs-homeworks)
-   + [ajs-diploma](https://github.com/netology-code/ajs-diploma)
+   + [ajs-homeworks - ДЗ для студентов](https://github.com/netology-code/ajs-homeworks)
+   + [ajs-diploma - курсовая для студентов](https://github.com/netology-code/ajs-diploma)
    + [ajs-code](https://github.com/netology-code/ajs-code)
-   + [ajs-task](https://github.com/netology-code/ajs-task)
-   + [ajs-templates](https://github.com/netology-code/ajs-templates)
-   + [ajs-platforms](https://github.com/netology-code/ajs-platforms)
-   + [ajs](https://github.com/netology-code/ajs)
+   + [ajs-materials](https://github.com/netology-code/ajs-materials)
+   + [ajs-task - уточняю](https://github.com/netology-code/ajs-task)
+   + [ajs-templates - шаблоны для лекций](https://github.com/netology-code/ajs-templates)
+   + [ajs-platforms - уточняю](https://github.com/netology-code/ajs-platforms)
+   + [ajs - уточняю](https://github.com/netology-code/ajs)
 
 </details>
 <details><summary>AHJ (JavaScript в браузере продвинутый)</summary>
 
-   + [ahj_code](https://github.com/netology-code/ahj_code)
+   + [ahj-homeworks - ДЗ для студентов](https://github.com/netology-code/ahj-homeworks)
+   + [ahj-diploma - курсовая для студентов](https://github.com/netology-code/ahj-diploma)
+   + [ahj-code - код для лекций](https://github.com/netology-code/ahj-code)
    + [ahj-materials](https://github.com/netology-code/ahj-materials)
-   + [ahj-templates](https://github.com/netology-code/ahj-templates)
-   + [ahj-homeworks](https://github.com/netology-code/ahj-homeworks)
-   + [ahj-code](https://github.com/netology-code/ahj-code)
-   + [ahj-diploma](https://github.com/netology-code/ahj-diploma)
+   + [ahj-templates - старые данные](https://github.com/netology-code/ahj-templates)
 
 </details>
 <details><summary>RA (Библиотека React)</summary>
 
-   + [ra16-homeworks](https://github.com/netology-code/ra16-homeworks)
-   + [ra16-materials](https://github.com/netology-code/ra16-materials)
-   + [ra-materials](https://github.com/netology-code/ra-materials)
+   + [ra16-homeworks - ДЗ для студентов](https://github.com/netology-code/ra16-homeworks)
+   + [ra16-diploma - курсовая для студентов](https://github.com/netology-code/ra16-diploma)
    + [ra16-code](https://github.com/netology-code/ra16-code)
+   + [ra16-materials](https://github.com/netology-code/ra16-materials)
    + [ra16-templates](https://github.com/netology-code/ra16-templates)
-   + [ra16-diploma](https://github.com/netology-code/ra16-diploma)
-   + [ra-16-810411](https://github.com/netology-code/ra-16-810411)
-   + [ra-17-rodionov217](https://github.com/netology-code/ra-17-rodionov217)
-   + [ra-17-KonstantinKliukach](https://github.com/netology-code/ra-17-KonstantinKliukach)
-   + [ra-18-pavellevchuk](https://github.com/netology-code/ra-18-pavellevchuk)
+   + [ra-materials](https://github.com/netology-code/ra-materials)
+   + [ra-16-810411 - репо для ленда](https://github.com/netology-code/ra-16-810411)
 
 </details>
 <details><summary>BPHP (Основы PHP)</summary>
 
-   + [bphp-2-homeworks](https://github.com/netology-code/bphp-2-homeworks)
+   + [bphp-2-homeworks - ДЗ для студентов](https://github.com/netology-code/bphp-2-homeworks)
+   + [bphp-2-code - пустой репо](https://github.com/netology-code/bphp-2-code)
    + [bphp-2-materials](https://github.com/netology-code/bphp-2-materials)
-   + [bphp-2-code](https://github.com/netology-code/bphp-2-code)
-   + [bphp-diplom](https://github.com/netology-code/bphp-diplom)
-   + [bphp-homeworks](https://github.com/netology-code/bphp-homeworks)
-   + [bphp-materials](https://github.com/netology-code/bphp-materials)
   
 </details>
 <details><summary>APHP (Продвинутый PHP)</summary>
 
-   + [aphp-homeworks](https://github.com/netology-code/aphp-homeworks)
+   + [aphp-homeworks - ДЗ для студентов](https://github.com/netology-code/aphp-homeworks)
    + [aphp-materials](https://github.com/netology-code/aphp-materials)
 
 </details>
 <details><summary>LRV (Laravel)</summary>
 
-   + [lrv-homeworks](https://github.com/netology-code/lrv-homeworks)
+   + [lrv-homeworks - ДЗ для студентов](https://github.com/netology-code/lrv-homeworks)
 
 </details>
 <details><summary>Диплом профессии</summary>
 
    + [fs-2-diplom](https://github.com/netology-code/fs-2-diplom)
-   + [fs-diplom](https://github.com/netology-code/fs-diplom)
 
 </details>
 <br>
@@ -221,79 +207,74 @@
 </details>
 <details><summary>MQ (Мобильная и адаптивная верстка)</summary>
 
+   + [MQ-Homeworks - ДЗ для студентов](https://github.com/netology-code/mq-homeworks)
+   + [MQ-Diploma - курсовая для студентов](https://github.com/netology-code/mq-diploma)
    + [MQ-Materials](https://github.com/netology-code/mq-materials)
-   + [MQ-Homeworks](https://github.com/netology-code/mq-homeworks)
-   + [MQ-Diploma](https://github.com/netology-code/mq-diploma)
-   + [MQ-Diploma-Old](https://github.com/netology-code/mq-diploma-old)
   
 </details>
 <details><summary>PB (Основы программирования)</summary>
 
-   + [PB-Materials](https://github.com/netology-code/pb-materials)
-   + [PB-2-Materials](https://github.com/netology-code/pb-2-materials)
-   + [PB-Homeworks](https://github.com/netology-code/pb-homeworks)
-   + [PB-Diplom](https://github.com/netology-code/pb-diplom)
+   + [PB-Homeworks - ДЗ для студентов](https://github.com/netology-code/pb-homeworks)
+   + [PB-Diplom - курсовая для студентов](https://github.com/netology-code/pb-diplom)
+   + [PB-Materials - полная информация по курсу для лекторов. Нужна чистка репо (убрать презентации и лишние блоки)](https://github.com/netology-code/pb-materials)
+   + [PB-2-Materials - код для лекций](https://github.com/netology-code/pb-2-materials)
 
 </details>
 <details><summary>GIT</summary>
 
+   + [Git-Homeworks - ДЗ для студентов](https://github.com/netology-code/git-homeworks)
    + [Git-Materials](https://github.com/netology-code/git-materials)
-   + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
 <details><summary>BJS (Основы JavaScript)</summary>
 
-   + [BJS-Materials](https://github.com/netology-code/bjs-materials)
-   + [BJS-Homeworks](https://github.com/netology-code/bjs-homeworks)
-   + [BJS-2-Homeworks](https://github.com/netology-code/bjs-2-homeworks)
-   + [BJS-Diplom](https://github.com/netology-code/bjs-diplom)
-   + [bjs-3-code](https://github.com/netology-code/bjs-3-code)
+   + [BJS-2-Homeworks - ДЗ для студентов](https://github.com/netology-code/bjs-2-homeworks)
+   + [BJS-Diplom - курсовая для студентов](https://github.com/netology-code/bjs-diplom)
+   + [bjs-3-code - конспекты лекций](https://github.com/netology-code/bjs-3-code)
+   + [BJS-Materials - нужно почистить репо, удалить старые презы, скорректировать информацию по ДЗ.](https://github.com/netology-code/bjs-materials)
 
 </details>
 <details><summary>BHJ (Основы JS в браузере)</summary>
 
+   + [bhj-homeworks - ДЗ для студентов](https://github.com/netology-code/bhj-homeworks)
+   + [bhj-diploma - курсовая для студентов](https://github.com/netology-code/bhj-diploma)
+   + [bhj-diploma-backend - уточняю](https://github.com/netology-code/bhj-diploma-backend)
    + [bhj-materials](https://github.com/netology-code/bhj-materials)
-   + [bhj-homeworks](https://github.com/netology-code/bhj-homeworks)
-   + [bhj-diploma](https://github.com/netology-code/bhj-diploma)
-   + [bhj-diploma-backend](https://github.com/netology-code/bhj-diploma-backend)
 
 </details>
 <details><summary>AJS (JavaScript продвинутый)</summary>
 
-   + [ajs-materials](https://github.com/netology-code/ajs-materials)
-   + [ajs-homeworks](https://github.com/netology-code/ajs-homeworks)
-   + [ajs-diploma](https://github.com/netology-code/ajs-diploma)
+   + [ajs-homeworks - ДЗ для студентов](https://github.com/netology-code/ajs-homeworks)
+   + [ajs-diploma - курсовая для студентов](https://github.com/netology-code/ajs-diploma)
    + [ajs-code](https://github.com/netology-code/ajs-code)
-   + [ajs-task](https://github.com/netology-code/ajs-task)
-   + [ajs-templates](https://github.com/netology-code/ajs-templates)
-   + [ajs-platforms](https://github.com/netology-code/ajs-platforms)
-   + [ajs](https://github.com/netology-code/ajs)
+   + [ajs-materials](https://github.com/netology-code/ajs-materials)
+   + [ajs-task - уточняю](https://github.com/netology-code/ajs-task)
+   + [ajs-templates - шаблоны для лекций](https://github.com/netology-code/ajs-templates)
+   + [ajs-platforms - уточняю](https://github.com/netology-code/ajs-platforms)
+   + [ajs - уточняю](https://github.com/netology-code/ajs)
 
 </details>
 <details><summary>RA (Библиотека React)</summary>
 
-   + [ra16-homeworks](https://github.com/netology-code/ra16-homeworks)
-   + [ra16-materials](https://github.com/netology-code/ra16-materials)
-   + [ra-materials](https://github.com/netology-code/ra-materials)
+   + [ra16-homeworks - ДЗ для студентов](https://github.com/netology-code/ra16-homeworks)
+   + [ra16-diploma - курсовая для студентов](https://github.com/netology-code/ra16-diploma)
    + [ra16-code](https://github.com/netology-code/ra16-code)
+   + [ra16-materials](https://github.com/netology-code/ra16-materials)
    + [ra16-templates](https://github.com/netology-code/ra16-templates)
-   + [ra16-diploma](https://github.com/netology-code/ra16-diploma)
-   + [ra-16-810411](https://github.com/netology-code/ra-16-810411)
-   + [ra-17-rodionov217](https://github.com/netology-code/ra-17-rodionov217)
-   + [ra-17-KonstantinKliukach](https://github.com/netology-code/ra-17-KonstantinKliukach)
-   + [ra-18-pavellevchuk](https://github.com/netology-code/ra-18-pavellevchuk)
+   + [ra-materials](https://github.com/netology-code/ra-materials)
+   + [ra-16-810411 - репо для ленда](https://github.com/netology-code/ra-16-810411)
 
 </details>
 <details><summary>NDSE - Настройка окружения и Express.js</summary>
 
-   + [ndse-homeworks](https://github.com/netology-code/ndse-homeworks)
-   + [ndse-diplom](https://github.com/netology-code/ndse-diplom)
+   + [ndse-homeworks - ДЗ для студентов](https://github.com/netology-code/ndse-homeworks)
+   + [ndse-diplom - курсовая для студентов](https://github.com/netology-code/ndse-diplom)
    + [ndse-code](https://github.com/netology-code/ndse-code)
 
 </details>
 <details><summary>NDTNF - Typescript, Nest.js, Firebase</summary>
 
-   + [ndtnf-homeworks](https://github.com/netology-code/ndtnf-homeworks)
+   + [ndtnf-homeworks - ДЗ для студентов](https://github.com/netology-code/ndtnf-homeworks)
    + [ndtnf-code](https://github.com/netology-code/ndtnf-code)
 
 </details>
@@ -345,26 +326,23 @@
 </details>
 <details><summary>PB (Основы программирования)</summary>
 
-   + [PB-Materials](https://github.com/netology-code/pb-materials)
-   + [PB-2-Materials](https://github.com/netology-code/pb-2-materials)
-   + [PB-Homeworks](https://github.com/netology-code/pb-homeworks)
-   + [PB-Diplom](https://github.com/netology-code/pb-diplom)
+   + [PB-Homeworks - ДЗ для студентов](https://github.com/netology-code/pb-homeworks)
+   + [PB-Diplom - курсовая для студентов](https://github.com/netology-code/pb-diplom)
+   + [PB-Materials - полная информация по курсу для лекторов. Нужна чистка репо (убрать презентации и лишние блоки)](https://github.com/netology-code/pb-materials)
+   + [PB-2-Materials - код для лекций](https://github.com/netology-code/pb-2-materials)
 
 </details>
 <details><summary>GIT</summary>
 
+   + [Git-Homeworks - ДЗ для студентов](https://github.com/netology-code/git-homeworks)
    + [Git-Materials](https://github.com/netology-code/git-materials)
-   + [Git-Homeworks](https://github.com/netology-code/git-homeworks)
 
 </details>
 <details><summary>BPHP (Основы PHP)</summary>
 
-   + [bphp-2-homeworks](https://github.com/netology-code/bphp-2-homeworks)
+   + [bphp-2-homeworks - ДЗ для студентов](https://github.com/netology-code/bphp-2-homeworks)
+   + [bphp-2-code - пустой репо](https://github.com/netology-code/bphp-2-code)
    + [bphp-2-materials](https://github.com/netology-code/bphp-2-materials)
-   + [bphp-2-code](https://github.com/netology-code/bphp-2-code)
-   + [bphp-diplom](https://github.com/netology-code/bphp-diplom)
-   + [bphp-homeworks](https://github.com/netology-code/bphp-homeworks)
-   + [bphp-materials](https://github.com/netology-code/bphp-materials)
   
 </details>
 <details><summary>BWEB (Работа веб-приложений)</summary>
