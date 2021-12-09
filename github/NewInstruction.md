@@ -3,36 +3,36 @@
 
 Перейдите на сайт [Github.com](https://github.com).
 В форме в левой части сайта введите свой E-mail и нажмите кнопку **Sign up to Github** (обязательно указываете реальный e-mail, в противном случае не сможете завершить регистрацию)
-![Изображение](/img/NI_1.png)
+![/img/NI_1.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_1.png)
 
 В появившемся окне нажмите continue.
-![Изображение](/img/NI_2.png)
+![/img/NI_2.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_2.png)
 
 Далее появится форма ввода пароля. Пароль должен состоять минимум из 8 символов и обязательно содержать цифры. После ввода пароля вновь нажимаем continue.
-![Изображение](/img/NI_3.png)
+![/img/NI_3.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_3.png)
 
 Далее появится строчка для ввода вашего Username (имя пользователя, логин).
-![Изображение](/img/NI_4.png)
+![/img/NI_4.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_4.png)
 
 Далее вам предстоит ответить на вопрос, хотите ли вы получать рассылку от Github на почту.
 Если желаете получать письма вводите букву y (от английского Yes). Если не хотите - букву n (от английского No).
-![Изображение](/img/NI_5.png)
+![/img/NI_5.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_5.png)
 
 ## Проверка от ботов
-![Изображение](/img/NI_6.png)
+![/img/NI_6.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_6.png)
 
 Нажмите кнопку "проверить" и перед вами появится следующее окошко
-![Изображение](/img/NI_7.png)
+![/img/NI_7.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_7.png)
 
 В нем вам необходимо два раза выбрать спиральную галактику.
 
 В следующем окошке нажмите **Create Account**.
-![Изображение](/img/NI_8.png)
+![/img/NI_1.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_8.png)
 
 ## Верификация
 Далее вы увидите окно в котором вам нужно ввести код, пришедший на почту, указанную при регистрации
 
-![Изображение](/img/NI_9.png)
+![/img/NI_1.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_9.png)
 
 Поздравляем! Ваш аккаунт зарегистрирован!
 
