@@ -4,5 +4,5 @@
 
 - [Справочник основных команд в Git](./GitCommandGuide.md)
 - [Шпаргалка по работе с Markdown](https://github.com/MihailOkatev/guides/blob/master/editors/Markdown-docs.md)
-- [Соглашение о том, как нужно писать соглашения о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)
+- [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)
 
