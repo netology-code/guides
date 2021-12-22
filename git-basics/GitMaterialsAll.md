@@ -25,19 +25,19 @@
 
 ### Команды в Git
 
-- [Справочник основных команд в Git](https://github.com/MihailOkatev/guides/blob/master/git-basics/GitCommandGuide.md)
+- [Справочник основных команд в Git](https://github.com/netology-code/guides/blob/master/git-basics/GitCommandGuide.md)
 - [10 команд Git, которые вы должны знать](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c) 🇺🇸
 - [Базовые команды Git](https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/) 🇷🇺
 - [Шпаргалки по основам Git/GitHub](https://medium.com/@vvladislavv/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BF%D0%BE-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BC-git-github-dcd6b91406a8) 🇷🇺
 
 ### Работа с редакторами в Git
 
-- [Шпаргалка по работе с редактором Bash](https://github.com/MihailOkatev/guides/blob/master/editors/bash-editor.md)
-- [Шпаргалка по работе с редактором Emacs](https://github.com/MihailOkatev/guides/blob/master/editors/emacs-editor.md)
-- [Шпаргалка по работе с редактором Nano](https://github.com/MihailOkatev/guides/blob/master/editors/Nano-editor.md)
-- [Шпаргалка по работе с редактором Vim](https://github.com/MihailOkatev/guides/blob/master/editors/Vim-editor.md)
-- [Работа с редактором в ОС Linux](https://github.com/MihailOkatev/guides/blob/master/editors/Linux-editors.md)
-- [Шпаргалка по работе с Markdown](https://github.com/MihailOkatev/guides/blob/master/editors/Markdown-docs.md)
+- [Шпаргалка по работе с редактором Bash](https://github.com/netology-code/guides/blob/master/editors/bash-editor.md)
+- [Шпаргалка по работе с редактором Emacs](https://github.com/netology-code/guides/blob/master/editors/emacs-editor.md)
+- [Шпаргалка по работе с редактором Nano](https://github.com/netology-code/guides/blob/master/editors/Nano-editor.md)
+- [Шпаргалка по работе с редактором Vim](https://github.com/netology-code/guides/blob/master/editors/Vim-editor.md)
+- [Работа с редактором в ОС Linux](https://github.com/netology-code/guides/blob/master/editors/Linux-editors.md)
+- [Шпаргалка по работе с Markdown](https://github.com/netology-code/guides/blob/master/editors/Markdown-docs.md)
 
 ### Учебники по Git
 
