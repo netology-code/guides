@@ -1,4 +1,4 @@
-# Дополнительные материалы по теме «Работа команды в Git»
+# Дополнительные материалы по теме «Командная работы в Git & GitHub»
 
 На этом этапе обучения рекомендуем вам познакомиться со следующими инструкциями из [Материалов по работе с Git](https://docs.google.com/document/d/1HeGuDnKbM4iNAz8iKRleU9sFjchSBOQpUZZyRGOiRas/edit?usp=sharing)
 
