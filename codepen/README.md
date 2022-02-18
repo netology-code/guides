@@ -30,6 +30,6 @@
 
 ![Save](../img/codepen-save.png)
 
-9. Найти сохраненную работу вы сможете на странице [Dashboard](https://codepen.io/dashboard/), в разделе «Pens», отфильтровав пены по значению «Fork».
+9. Найти сохраненную работу вы сможете на странице [Your Work](https://codepen.io/your-work/), в разделе «Pens», отфильтровав пены по значению «Fork».
 
 ![Раздел Pens](../img/codepen-forked.png)
