@@ -47,7 +47,7 @@
 
 ### Bitbucket - аналог GitHub
 
-- [Настройка репозитория](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository) 🇷🇺 + видео 🇺🇸
+- [Настройка репозитория](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository) 🇷🇺🇸
 
 ## Обучающие видео
 
