@@ -17,7 +17,6 @@
 
 ### Инструкции по началу работы в Git
 
-- [Инструкция по установке Git](https://github.com/netology-code/guides/tree/master/git)
 - [Инструкция по регистрации в Github](https://github.com/netology-code/guides/tree/master/github)
 - [Краткое руководство по терминалу](https://github.com/netology-code/guides/blob/master/git-terminal/git-terminal.md)
 - [Как создать токен для входа в Github](https://github.com/netology-code/guides/tree/master/github-access-token)
