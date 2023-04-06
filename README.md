@@ -24,6 +24,7 @@
 5. [Инструкция по размещению сайта на GitHub Pages](github-pages/)
 6. [Инструкция по созданию токена для GitHub](github-access-token/) 
 7. [Решение 403 ошибки при работе с GitHub](github-403/)
+7. [Добавление ssh ключа](git-ssh/)
 
 ## PHP
 
