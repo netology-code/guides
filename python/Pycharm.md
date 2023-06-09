@@ -75,6 +75,6 @@ Pycharm позволяет ускорить процесс разработки 
 [Карта со всеми горячими клавишами](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf)  
 [Мастер-класс по использованию от разработчика Pycharm](https://www.youtube.com/watch?v=DpscmxH2LQU)  
 
-P.S. Если у Вас будет интересная ссылка, кидайте нам в группу в Slack.
+P.S. Если у Вас будет интересная ссылка, кидайте в наш чат.
 
 
