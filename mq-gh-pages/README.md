@@ -29,10 +29,10 @@
 
 1. Откройте VS Code.
 2. Откройте в нём только что созданную папку _mq-diploma_.
-3. В корне папки создайте файл _index.html_ (для HTML-разметки).
-4. Внутри папки _css_ создайте файл _styles.css_ (для CSS-стилей).
+3. В корне папки создайте файл **_index.html_** (для HTML-разметки).
+4. Внутри папки _css_ создайте файл **_styles.css_** (для CSS-стилей).
 
 В файлах _index.html_ и _styles.css_ будет вестись основная работа.
 
-<video src="./videos/index-styles.mp4"></video>
+![](./images/index-styles.gif)
 
