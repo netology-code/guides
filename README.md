@@ -10,6 +10,7 @@
 1. [Шпаргалка по HTML и CSS для контент-менеджера](https://netology-code.github.io/guides/wm-cheat-sheet)
 1. [Инструкция по работе с Codepen](codepen/)
 1. [Относительные ссылки](relative-link/)
+1. [Инструкция по работе с JSBIN](jsbin/)
 
 ## MQ
 
