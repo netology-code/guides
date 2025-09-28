@@ -25,7 +25,7 @@
 ### Команды в Git
 
 - [Справочник основных команд в Git](https://github.com/netology-code/guides/blob/master/git-basics/GitCommandGuide.md)
-- [10 команд Git, которые вы должны знать](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c) 🇺🇸
+- [10 команд Git, которые вы должны знать](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/) 🇺🇸
 - [Базовые команды Git](https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/) 🇷🇺
 - [Шпаргалки по основам Git/GitHub](https://medium.com/@vvladislavv/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BF%D0%BE-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BC-git-github-dcd6b91406a8) 🇷🇺
 
